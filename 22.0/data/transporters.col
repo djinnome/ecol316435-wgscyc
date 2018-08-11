@@ -1,0 +1,45 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Tim Holland
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Escherichia coli Nissle 1917
+# Database: Escherichia coli Nissle 1917, whole genome shotgun sequencing project.
+# Version: 21.5
+# File Name: transporters.col
+# Date and time generated: October 24, 2017, 16:33:18
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+GNBM-62-MONOMER	PTS system, galactitol-specific IIC component	a [protein]-Npi-phospho-L-histidine + sucrose[out]  <-->  a [protein]-L-histidine + sucrose-6-phosphate[in]	1*GNBM-62-MONOMER
+		4 H+[in]  <-->  4 H+[out]	
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	phosphoenolpyruvate + 2-O-alpha-mannosyl-D-glycerate[out]  <-->  2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate[in] + pyruvate	1*GNBM-404-MONOMER
+GNBM-3826-MONOMER	Maltose/maltodextrin transport ATP-binding protein MalK	maltose[out] + ATP + H2O  <-->  maltose[in] + ADP + phosphate + H+	1*GNBM-3826-MONOMER
+GNBM-1034-MONOMER	Flagellum-specific ATP synthase FliI	ATP + 3 H+[in] + H2O  <-->  ADP + phosphate + 4 H+[out]	1*GNBM-1034-MONOMER
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	N-acetyl-D-muramate[out] + phosphoenolpyruvate  <-->  N-acetyl-beta-muramate 6-phosphate[in] + pyruvate	1*GNBM-404-MONOMER
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	phosphoenolpyruvate + beta-D-glucose[out]  <-->  beta-D-glucose 6-phosphate[in] + pyruvate	1*GNBM-404-MONOMER
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	phosphoenolpyruvate + L-ascorbate[out]  <-->  L-ascorbate-6-phosphate[in] + pyruvate	1*GNBM-404-MONOMER
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	N,N'-diacetylchitobiose[out] + phosphoenolpyruvate  <-->  pyruvate + N-monoacetylchitobiose-6-phosphate[in]	1*GNBM-404-MONOMER
+GNBM-1572-MONOMER	Ammonium transporter	ammonium[out]  <-->  ammonium[in]	1*GNBM-1572-MONOMER
+GNBM-4227-MONOMER	Multidrug resistance protein A	a xenobiotic[in] + ATP + H2O  <-->  a xenobiotic[out] + ADP + phosphate	1*GNBM-4227-MONOMER
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	D-glucosamine[out] + phosphoenolpyruvate  <-->  D-glucosamine 6-phosphate[in] + pyruvate	1*GNBM-404-MONOMER
+GNBM-62-MONOMER	PTS system, galactitol-specific IIC component	a [protein]-Npi-phospho-L-histidine + a sugar  <-->  a [protein]-L-histidine + a sugar phosphate	1*GNBM-62-MONOMER
+GNBM-410-MONOMER	Sulfate and thiosulfate import ATP-binding protein CysA	sulfate[out] + ATP + H2O  <-->  sulfate[in] + ADP + phosphate + H+	1*GNBM-410-MONOMER
+GNBM-2820-MONOMER	Mg(2+) transport ATPase, P-type	Mg2+[out] + ATP + H2O  <-->  Mg2+[in] + ADP + phosphate + H+	1*GNBM-2820-MONOMER
+GNBM-1604-MONOMER	Lead, cadmium, zinc and mercury transporting ATPase	Cu2+[in] + ATP + H2O  <-->  Cu2+[out] + ADP + phosphate + H+	1*GNBM-1604-MONOMER
+		formate[in] + oxalate[out]  <-->  formate[out] + oxalate[in]	
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	phosphoenolpyruvate + trehalose[out]  <-->  trehalose 6-phosphate[in] + pyruvate	1*GNBM-404-MONOMER
+GNBM-1782-MONOMER	Potassium-transporting ATPase C chain	ATP + K+[out] + H2O  <-->  ADP + K+[in] + phosphate + H+	1*GNBM-1782-MONOMER
+GNBM-121-MONOMER	Galactose/methyl galactoside ABC transport system, ATP-binding protein MglA	a monosaccharide[out] + ATP + H2O  <-->  a monosaccharide[in] + ADP + phosphate	1*GNBM-121-MONOMER
+GNBM-404-MONOMER	Phosphotransferase system, phosphocarrier protein HPr	phosphoenolpyruvate + D-mannitol[out]  <-->  mannitol-1-phosphate[in] + pyruvate	1*GNBM-404-MONOMER
+		arsenite[in] + ATP + H2O  <-->  arsenite[out] + ADP + phosphate + H+	
+GNBM-632-MONOMER	NAD(P) transhydrogenase subunit beta	NADP+ + NADH + H+[out]  <-->  NADPH + NAD+ + H+[in]	1*GNBM-632-MONOMER
+GNBM-1604-MONOMER	Lead, cadmium, zinc and mercury transporting ATPase	Cd2+[in] + ATP + H2O  <-->  Cd2+[out] + ADP + phosphate + H+	1*GNBM-1604-MONOMER

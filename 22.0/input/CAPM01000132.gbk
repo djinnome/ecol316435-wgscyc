@@ -1,0 +1,64 @@
+LOCUS       CAPM01000132            1330 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            100, whole genome shotgun sequence.
+ACCESSION   CAPM01000132 CAPM01000000
+VERSION     CAPM01000132.1  GI:441711270
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1330
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 100"
+     CDS             complement(330..443)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00640758: hypothetical protein"
+                     /protein_id="CCQ08232.1"
+                     /db_xref="GI:441711271"
+                     /translation="MSAILAVAGVEHDWRANTRQTKSMGCCLAATMYPLAH"
+     CDS             complement(412..981)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Intergenic-region protein"
+                     /protein_id="CCQ08233.1"
+                     /db_xref="GI:441711272"
+                     /translation="MTYKYNPFWQQRIRETVRHALNVHPRLTALRVDLRFPDVPAATD
+                     AAVISRFINALKARIDAYQKRKHREGKRVHPTTLHYVWAREFGECKGKKHYHLMLLVN
+                     RDTWCRAGDYRAPGSLAGMIKQAWCSALGVDVGCHATLVHFPAWPAVWLERDDDTGFQ
+                     QVLERADYLAKEHTKAHCTGERNFGCSRS"
+     misc_feature    complement(418..951)
+                     /note="Protein of unknown function (DUF3296); Region:
+                     DUF3296; pfam11726"
+                     /db_xref="CDD:221189"
+ORIGIN      
+        1 aaccagggaa gttcagtgtc gtattgcgga tggtatctga gtgcactgcc acacaagtgg
+       61 caggtgtagt gagcataagg tgcggcctgt gcagtacggg cgcccgtcag acgtccgttg
+      121 ccatcaagag cgataaagga ttttgcgtac atagtcatat tcctcagccg ccagacgaca
+      181 cgcaggcaac agccgtcccg gtacgggcag cgtggtcagg gtgtgaatgg cggttcagtt
+      241 aaaatctgga ctggagtttg ggtaaagcag gctggttgct gttacagcac tgtggttgtc
+      301 acacaatgga acactgacgt aaaaaacagt cagtgggcga gtggatacat cgttgccgcc
+      361 agacaacaac ccatactttt ggtttgccgg gtattggcgc gccagtcgtg ctcaactccg
+      421 gctacagcca aaattgcgct caccggtgca gtgagctttg gtatgttcct tcgccagata
+      481 gtcagcacgt tccagcacct gctgaaagcc agtgtcatca tcgcgttcca gccacaccgc
+      541 cggccaggcc ggaaaatgca ccagcgtggc atggcacccg acatccactc ccagggcact
+      601 gcaccacgcc tgtttaatca tcccggccag tgatcccgga gcacggtaat caccggcacg
+      661 acaccaggta tcccggttaa ccagcagcat caggtgatag tgttttttac ctttgcactc
+      721 cccaaactcc cgggcccaga cgtaatgcag ggttgtggga tgcacgcgtt taccttcccg
+      781 atgcttacgt ttctggtaag cgtcgattcg ggctttcagg gcattgatga agcgggatat
+      841 cacagctgcg tccgttgctg ccggtacatc cgggaaacgc aggtcaaccc gcaatgccgt
+      901 caggcgggga tgaacattca gtgcgtgccg cactgtctca cgaatacgtt gctgccagaa
+      961 ggggttgtat ttgtaggtca tggttaaatc tccgtatggt tcatacggaa tagccacgtc
+     1021 gtaaaaaata cgcagagtcc ctgaagtgac ctccggcagg acactgtctc aggcactctg
+     1081 tgataacccg aacggtcgtc tccggactga cgattgaatt cccggcgttg ttttttttaa
+     1141 tgtaaaaaac cggttacgga taaggcgtgg cgagggagct atcgtgatac gcaaaaagaa
+     1201 gtgcagggac tgtggtaacg caattactca taatacagtt tgttgcccgt attgtggcgc
+     1261 tgtcgacccc ttcggttatt accggaagac cgatcgtctg ctctgtttac tgacgttact
+     1321 gctggtgctg
+//

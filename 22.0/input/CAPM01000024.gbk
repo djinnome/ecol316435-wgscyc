@@ -1,0 +1,86 @@
+LOCUS       CAPM01000024            1714 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            118, whole genome shotgun sequence.
+ACCESSION   CAPM01000024 CAPM01000000
+VERSION     CAPM01000024.1  GI:441715764
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1714
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 118"
+     CDS             26..460
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00638721: hypothetical protein"
+                     /protein_id="CCQ04374.1"
+                     /db_xref="GI:441715765"
+                     /translation="MRILNCYMANDSKGHFVTAKEAAKHNRQDVLCCVSCGCPLTLQR
+                     GNDGQPPWFEHDQMTVAEKILLRCTWLDPAEKEARRLHLQGMTVPDYTVKVRKWFCVM
+                     CDEDYEGEKCCPRCGTGVYSRAWGRQEVPSEDARADNPLQRL"
+     misc_feature    29..409
+                     /note="Protein of unknown function (DUF3279); Region:
+                     DUF3279; pfam11682"
+                     /db_xref="CDD:152118"
+     CDS             639..767
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00640347: hypothetical protein"
+                     /protein_id="CCQ04375.1"
+                     /db_xref="GI:441715766"
+                     /translation="MYFIVPVQVCVSRRVCTGLTKFNRDKIVVSVQPEPSGQNLTN"
+     CDS             1192..1539
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ04376.1"
+                     /db_xref="GI:441715767"
+                     /translation="MIPLPSGTKIWLVAGITDMRNGFNGLAAKVQTALKDDPMSGHVF
+                     IFRGRSGSQVKLLWSTGDGLCLLTKRLERGRFAWPSARDGKVFLTQAQLAMLLEGIDW
+                     RQPKRLLTSLTML"
+     misc_feature    1192..1512
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG3436"
+                     /db_xref="CDD:225970"
+     misc_feature    1207..1512
+                     /note="IS66 Orf2 like protein; Region: TnpB_IS66;
+                     pfam05717"
+                     /db_xref="CDD:191353"
+ORIGIN      
+        1 ttccccggac aactcaggag gaaatatgcg aattctgaac tgttatatgg cgaatgacag
+       61 caaaggccat tttgttacgg cgaaagaagc tgcgaagcac aaccgacagg acgttttgtg
+      121 ctgtgtgtcc tgtggatgcc cgttaacact tcagcggggc aatgacggac aaccaccgtg
+      181 gtttgaacat gaccagatga ctgtcgctga aaaaatcctg ctgcgatgta cctggcttga
+      241 cccggcagag aaagaggccc gtcgtttgca tctgcagggc atgacggttc cggattatac
+      301 ggtgaaggtg agaaagtggt tttgtgtgat gtgtgacgaa gattatgagg gggaaaagtg
+      361 ctgcccacgc tgcggtaccg gggtatacag cagggcgtgg gggcggcagg aggtgccgtc
+      421 ggaagatgcc agggctgata atccgttaca gaggctgtaa tggttgcctc cggagcagtt
+      481 tgcggtgatg cctttcccgg gaatggattg ccagtgcggg gactgtggag cttaattccg
+      541 gtgttggtgg cctttccatt gattttatgc caacagcccc ctgtgactga caggctgcct
+      601 cgtcattcca ttcgtatctc cagtaacagg gggttgtatt gtattttatt gtaccggttc
+      661 aggtgtgcgt ttcccggcgc gtctgcaccg gcttaaccaa attcaacagg gataaaatag
+      721 tggtaagcgt acagcctgaa ccgtctggtc agaatctgac gaattagaca aagtggtgtc
+      781 caccaaataa gtagtgggaa ccaaagtgtc agatatgcag aaaaatgtga ctcccggcag
+      841 gcgaaaaggc tgccctaatt atcctcccga atttaaacag ctgctcgttg ctgcctcctg
+      901 tgaacccggg atatccatct caaaacttgc tcttgaaaat ggcattaacg ccaatctgtt
+      961 gttcaaatgg cgacaacaat ggcgcgaggg aaagctgcta ttaccttctt cagagagccc
+     1021 ccagctactt cctgtgactc tcgatgcagc tgccgaacag ccagaatcgc tcgcagagga
+     1081 cccggaaacc ctcagtatca gctgtgaggt aacgttccgg cacgggacgc tccgcttcaa
+     1141 tggcaatgtc agcgaaaagc tcctgactct gctgatacag gaactgaagc gatgatcccg
+     1201 ttaccttccg ggaccaaaat ttggctggtt gccggtatca ccgatatgag aaatggcttc
+     1261 aacggcctgg ctgcgaaagt acaaacggcg ctgaaagacg atcccatgtc cggccatgtt
+     1321 ttcattttcc ggggccgcag cggcagtcag gttaaactgc tgtggtccac cggtgacgga
+     1381 ctgtgcctcc tgaccaaacg gctggagcgt gggcgcttcg cctggccgtc agcccgtgat
+     1441 ggcaaagtgt tccttacgca ggcgcagctg gcgatgctgc tggaaggtat cgactggcga
+     1501 cagcccaagc ggctgctgac ctccctgacc atgctgtaaa tctctttatc ctggttgtca
+     1561 cagaataagc ccggtaaaat acgggcttat gaacgacatc tcttctgacg acatcttcct
+     1621 gctaaaacag cgcctggccg aacaggaagc gctgatccac gccctgcagg aaaagctgag
+     1681 caaccgggag cgcgaaatag accatctgca ggcg
+//

@@ -1,0 +1,87 @@
+LOCUS       CAPM01000138            3245 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            30, whole genome shotgun sequence.
+ACCESSION   CAPM01000138 CAPM01000000
+VERSION     CAPM01000138.1  GI:441710946
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..3245
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 30"
+     rRNA            complement(7..126)
+                     /product="5S RNA"
+     rRNA            complement(200..3123)
+                     /product="Large Subunit Ribosomal RNA; lsuRNA; LSU
+                     ribosomal RNA"
+     CDS             complement(1272..1391)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CCQ08514.1"
+                     /db_xref="GI:441710947"
+                     /translation="MELKSVEDTSWLQLFIKNTALCKHESGRIRCDACPVPEG"
+ORIGIN      
+        1 aatttgatgc ctggcagttc cctactctcg catggggaga ccccacacta ccatcggcgc
+       61 tacggcgttt cacttctgag ttcggcatgg ggtcaggtgg gaccaccgcg ctaaggccgc
+      121 caggcaaatt ctgtttcatt aacccgcttg tcgccggtta atctaatctg tatcaggctg
+      181 aaaatcttct ctcatccgcc aaaacatctt cggcgttgta aggttaagcc tcacggttca
+      241 ttagtaccgg ttagctcaac gcatcgctgc gcttacacac ccggcctatc aacgtcgtcg
+      301 tcttcaacgt tccttcagga ccctcaagga gtcagggaga actcatctcg gggcaagttt
+      361 cgtgcttaga tgctttcagc acttatctct tccgcattta gctaccgggc agtgccattg
+      421 gcatgacaac ccgaacacca gtgatgcgtc cactccggtc ctctcgtact aggagcagcc
+      481 cccctcagtt ctccagcgcc cacggcagat agggaccgaa ctgtctcacg acgttctaaa
+      541 cccagctcgc gtaccacttt aaatggcgaa cagccatacc cttgggacct acttcagccc
+      601 caggatgtga tgagccgaca tcgaggtgcc aaacaccgcc gtcgatatga actcttgggc
+      661 ggtatcagcc tgttatcccc ggagtacctt ttatccgttg agcgatggcc cttccattca
+      721 gaaccaccgg atcactatga cctgctttcg cacctgctcg cgccgtcacg ctcgcagtca
+      781 agctggctta tgccattgca ctaacctcct gatgtccgac caggattagc caaccttcgt
+      841 gctcctccgt tactctttag gaggagaccg ccccagtcaa actacccacc agacactgtc
+      901 cgcaacccgg attacgggcc aacgttagaa catcaaacat taaagggtgg tatttcaagg
+      961 tcggctccat gcagactggc gtccacactt caaagcctcc cacctatcct acacatcaag
+     1021 gctcaatgtt cagtgtcaag ctatagtaaa ggttcacggg gtctttccgt cttgccgcgg
+     1081 gtacactgca tcttcacagc gagttcaatt tcactgagtc tcgggtggag acagcctggc
+     1141 catcattacg ccattcgtgc aggtcggaac ttacccgaca aggaatttcg ctaccttagg
+     1201 accgttatag ttacggccgc cgtttaccgg ggcttcgatc aagagcttcg cgttaccgct
+     1261 aaccccatca attaaccttc cggcaccggg caggcgtcac accgtatacg tccactttcg
+     1321 tgtttgcaca gtgctgtgtt tttaataaac agttgcagcc agctggtatc ttcgactgat
+     1381 ttcagctcca cgagcaagtc gcttcaccta catatcagcg tgccttctcc cgaagttacg
+     1441 gcaccatttt gcctagttcc ttcacccgag ttctctcaag cgccttggta ttctctacct
+     1501 gaccacctgt gtcggtttgg ggtacgattt gatgttacct gatgcttaga ggcttttcct
+     1561 ggaagcaggg catttgtcgc ttcagcaccg tagtgcctcg tcatcacgcc tcagccttgg
+     1621 ttttccggat ttgcctggaa aaccagccta cacgcttaaa ccgggacaac cgtcgcccgg
+     1681 ccaacatagc cttctccgtc cccccttcgc agtaacacca agtacaggaa tattaacctg
+     1741 tttcccatcg actacgcctt tcggcctcgc cttaggggtc gactcaccct gccccgatta
+     1801 acgttggaca ggaacccttg gtcttccggc gagcgggctt ttcacccgct ttatcgttac
+     1861 ttatgtcagc attcgcactt ctgatacctc cagcaaccct cacaggccac cttcacaggc
+     1921 ttacagaacg ctcccctacc caacaacaca tagtgtcgct gccgcagctt cggtgcatgg
+     1981 tttagccccg ttacatcttc cgcgcaggcc gactcgacca gtgagctatt acgctttctt
+     2041 taaatgatgg ctgcttctaa gccaacatcc tggctgtctg ggccttccca catcgtttcc
+     2101 cacttaacca tgactttggg accttagctg gcggtctggg ttgtttccct cttcacgacg
+     2161 gacgttagca cccgccgtgt gtctcccgtg ataacattct ccggtattcg cagtttgcat
+     2221 cgggttggta agtcgggatg acccccttgc cgaaacagtg ctctaccccc ggagatgaat
+     2281 tcacgaggcg ctacctaaat agctttcggg gagaaccagc tatctcccgg tttgattggc
+     2341 ctttcacccc cagccacaag tcatccgcta atttttcaac attagtcggt tcggtcctcc
+     2401 agttagtgtt acccaacctt caacctgccc atggctagat caccgggttt cgggtctata
+     2461 ccctgcaact taacgcccag ttaagactcg gtttcccttc ggctccccta ttcggttaac
+     2521 cttgctacag aatataagtc gctgacccat tatacaaaag gtacgcagtc accccattaa
+     2581 gaggctccca ctgcttgtac gtacacggtt tcaggttctt tttcactccc ctcgccgggg
+     2641 ttcttttcgc ctttccctca cggtactggt tcactatcgg tcagtcagga gtatttagcc
+     2701 ttggaggatg gtccccccat attcagacag gataccacgt gtcccgccct actcatcgag
+     2761 ctcacaatat gtgcattttt gtgtacgggg ctgtcaccct gtatcgcacg cctttccaga
+     2821 cgcttccact aacacacaca ctgattcagg ctctgggctc ctccccgttc gctcgccgct
+     2881 actgggggaa tctcggttga tttcttttcc tcggggtact tagatgtttc agttcccccg
+     2941 gttcgcctca ttaacctatg gattcagtta atgatagtgt gtcgaaacac actgggtttc
+     3001 cccattcgga aatcgccggt tataacggtt catatcacct caccgacgct tatcgcagat
+     3061 tagcacgtcc ttcatcgcct ctgactgcca gggcatccac cgtgtacgct tagtcgctta
+     3121 acctcacaac ccgaagatgt ttcttgcgat tcatcatcgt gttgcgaaaa tttgagagac
+     3181 tcacgaacaa ctctcgttgt tcagtgtttc aattttcagc ttgatccaga tttttaaaga
+     3241 gcaaa
+//

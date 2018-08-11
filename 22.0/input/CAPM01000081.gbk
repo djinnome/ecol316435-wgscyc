@@ -1,0 +1,26 @@
+LOCUS       CAPM01000081             332 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            35, whole genome shotgun sequence.
+ACCESSION   CAPM01000081 CAPM01000000
+VERSION     CAPM01000081.1  GI:441713510
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..332
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 35"
+ORIGIN      
+        1 atgtcgaagc caccatcacc ggcaaacatt ccggtttgtt cagcaacgga gtcaaagcgg
+       61 ctcttcatct tatcccggga ggcagcgatg taacctgagc cggtcatgga gccaaaggta
+      121 aaactgccgc cggcagccac gctggtctgt ttactgtcgt acttactggt gtcctgctgg
+      181 ctgcttatca gcaggtcgtg gcccacatcg gcgataatcc tgttgccgtt gacctgagca
+      241 ccgttcagta ccgtatcccg accactgttg atggtgacgg ttttaccgct gtctgttgtg
+      301 gtttcagtcc actcagtacc gttacctttc tc
+//

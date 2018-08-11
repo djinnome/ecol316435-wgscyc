@@ -1,0 +1,35 @@
+LOCUS       CAPM01000000             143 rc    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917, whole genome shotgun sequencing
+            project.
+ACCESSION   CAPM00000000
+VERSION     CAPM00000000.1  GI:441717571
+DBLINK      BioProject: PRJEB1192
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Cress,B.F., Koffas,M.A.G. and Linhardt,R.J.
+  TITLE     Draft genome sequence of Escherichia coli strain Nissle 1917
+            (serovar O6:K5:H1)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 143)
+  AUTHORS   Cress,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2012) Department of Chemical & Biological
+            Engineering, Rensselaer Polytechnic Institute, 110 8th Street,
+            Troy, NY, New York, 12180, USA
+COMMENT     The Escherichia coli Nissle 1917 whole genome shotgun (WGS) project
+            has the project accession CAPM00000000.  This version of the
+            project (01) has the accession number CAPM01000000, and consists of
+            sequences CAPM01000001-CAPM01000143.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+WGS         CAPM01000001-CAPM01000143
+//

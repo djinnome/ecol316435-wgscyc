@@ -1,0 +1,36 @@
+LOCUS       CAPM01000071             513 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            40, whole genome shotgun sequence.
+ACCESSION   CAPM01000071 CAPM01000000
+VERSION     CAPM01000071.1  GI:441713558
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..513
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 40"
+     CDS             complement(379..504)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative adhesin"
+                     /protein_id="CCQ06285.1"
+                     /db_xref="GI:441713559"
+                     /translation="MGWNAAGGALGNWIGNKDPLSGAISNGIGSAAGYGIGKGIT"
+ORIGIN      
+        1 acaaaacttc aaaaatcccg ctttgaaacc atgctaacgc tacaaacgtt agtttagtta
+       61 ttatggccgc taagatcatg ccaataaaac acaataagag aattgaactg catataataa
+      121 acttacctat taccactcga aaagaatatt tcatttcttg agttcctcag atactttatc
+      181 tgttactttt ccacctagct cggatcctat agaaccgcca atatctccag cagttccagg
+      241 aatattgctc ggtttcatgc cttctcgaat gatatcgtta cgatttactt cagcatattt
+      301 tatccatgtt ggatcgtact taggatccca gccatttgtc acccattttc ctacagcatt
+      361 cgtaatctta tctgtcccct aagtaatacc tttaccgata ccatacccag cagcagaacc
+      421 gataccattt gaaattgcac cagacagagg atctttgttg ccgatccagt tacccagcgc
+      481 accacctgca gcattccagc ccacagtccc cgc
+//

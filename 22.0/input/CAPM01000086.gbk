@@ -1,0 +1,416 @@
+LOCUS       CAPM01000086            7506 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            32, whole genome shotgun sequence.
+ACCESSION   CAPM01000086 CAPM01000000
+VERSION     CAPM01000086.1  GI:441713176
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..7506
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 32"
+     CDS             complement(150..722)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="D-glycero-D-manno-heptose 1,7-bisphosphate
+                     phosphatase"
+                     /protein_id="CCQ06597.1"
+                     /db_xref="GI:441713177"
+                     /translation="MAKSVPAIFLDRDGTINVDHGYVHEIDNFEFIDGVIDAMRELKK
+                     MGFALVVVTNQSGIARGKFTEAQFETLTEWMDWSLADRDVDLDGIYYCPHHPQGSVEE
+                     FRQVCDCRKPHPGMFLSARDYLHIDMAASYMVGDKLEDMQAAAAASVGTKVLVRTGKP
+                     ITPEAENAADWVLNSLADLPQAIKKQQKPA"
+     misc_feature    complement(180..710)
+                     /note="D,D-heptose 1,7-bisphosphate phosphatase; Region:
+                     GmhB_yaeD; TIGR00213"
+                     /db_xref="CDD:129317"
+     misc_feature    complement(258..704)
+                     /note="Haloacid dehalogenase-like hydrolases. The haloacid
+                     dehalogenase-like (HAD) superfamily includes L-2-haloacid
+                     dehalogenase, epoxide hydrolase, phosphoserine
+                     phosphatase, phosphomannomutase, phosphoglycolate
+                     phosphatase, P-type ATPase, and many others; Region:
+                     HAD_like; cd01427"
+                     /db_xref="CDD:119389"
+     misc_feature    complement(order(561..566,684..692))
+                     /note="active site"
+                     /db_xref="CDD:119389"
+     misc_feature    complement(675..692)
+                     /note="motif I; other site"
+                     /db_xref="CDD:119389"
+     misc_feature    complement(564..566)
+                     /note="motif II; other site"
+                     /db_xref="CDD:119389"
+     CDS             910..1941
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Methionine ABC transporter ATP-binding protein"
+                     /protein_id="CCQ06598.1"
+                     /db_xref="GI:441713178"
+                     /translation="MIKLSNITKVFHQGTRTIQALNNVSLHVPAGQIYGVIGASGAGK
+                     STLIRCVNLLERPTEGSVLVDGQELTTLSESELTKARRQIGMIFQHFNLLSSRTVFGN
+                     VALPLELDNTPKDEIKRRVTELLSLVGLGDKHDSYPSNLSGGQKQRVAIARALASNPK
+                     VLLCDEATSALDPATTRSILELLKDINRRLGLTILLITHEMDVVKRICDCVAVISNGE
+                     LIEQDTVSEVFSHPKTPLAQKFIQSTLHLDIPEDYQERLQAEPFTDCVPMLRLEFTGQ
+                     SVDAPLLSETARRFNVNNNIISAQMDYAGGVKFGIMLTEMHGTQQDTQAAIAWLQEHH
+                     VKVEVLGYV"
+     misc_feature    910..1938
+                     /note="DL-methionine transporter ATP-binding subunit;
+                     Provisional; Region: metN; PRK11153"
+                     /db_xref="CDD:236863"
+     misc_feature    910..1608
+                     /note="ATP-binding cassette domain of methionine
+                     transporter; Region: ABC_MetN_methionine_transporter;
+                     cd03258"
+                     /db_xref="CDD:213225"
+     misc_feature    1021..1044
+                     /note="Walker A/P-loop; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    order(1030..1035,1039..1047,1174..1176,1402..1407,
+                     1504..1506)
+                     /note="ATP binding site [chemical binding]; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    1165..1176
+                     /note="Q-loop/lid; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    1330..1359
+                     /note="ABC transporter signature motif; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    1390..1407
+                     /note="Walker B; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    1414..1425
+                     /note="D-loop; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    1492..1512
+                     /note="H-loop/switch region; other site"
+                     /db_xref="CDD:213225"
+     misc_feature    1708..1929
+                     /note="This domain is found at the C-terminus of ABC
+                     transporter proteins involved in D-methionine transport as
+                     well as a number of ferredoxin-like proteins; Region: NIL;
+                     smart00930"
+                     /db_xref="CDD:197998"
+     CDS             1934..2587
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Methionine ABC transporter permease protein"
+                     /protein_id="CCQ06599.1"
+                     /db_xref="GI:441713179"
+                     /translation="MSEPMMWLLVRGVWETLAMTFVSGFFGFVIGLPVGVLLYVTRPG
+                     QIIANAKLYRTISAIVNIFRSIPFIILLVWMIPFTRVIVGTSIGLQAAIVPLTVGAAP
+                     FIARMVENALLEIPTGLIEASRAMGATPMQIVRKVLLPEALPGLVNAATITLITLVGY
+                     SAMGGAVGAGGLGQIGYQYGYIGYNATVMNTVLVLLVILVYLIQFAGDRIVRAVTRK"
+     misc_feature    1973..>2404
+                     /note="Transmembrane subunit (TM) found in Periplasmic
+                     Binding Protein (PBP)-dependent ATP-Binding Cassette (ABC)
+                     transporters which generally bind type 2 PBPs. These types
+                     of transporters consist of a PBP, two TMs, and two
+                     cytoplasmic ABC ATPase subunits, and...; Region: TM_PBP2;
+                     cd06261"
+                     /db_xref="CDD:119394"
+     misc_feature    order(2018..2023,2030..2035,2048..2050,2099..2110,
+                     2114..2143,2150..2155,2159..2161,2225..2230,2234..2236,
+                     2240..2242,2249..2254,2258..2260,2270..2275,2282..2284,
+                     2333..2335,2375..2380,2387..2389)
+                     /note="dimer interface [polypeptide binding]; other site"
+                     /db_xref="CDD:119394"
+     misc_feature    2117..2161
+                     /note="conserved gate region; other site"
+                     /db_xref="CDD:119394"
+     misc_feature    order(2285..2323,2339..2344,2354..2356)
+                     /note="ABC-ATPase subunit interface; other site"
+                     /db_xref="CDD:119394"
+     CDS             2627..3442
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Methionine ABC transporter substrate-binding
+                     protein"
+                     /protein_id="CCQ06600.1"
+                     /db_xref="GI:441713180"
+                     /translation="MAFKFKTFAAVGALIGSLALVGCGQDEKDPNHIKVGVIVGAEQQ
+                     VAEVAQKVAKDKYGLDVELVTFNDYVLPNEALSKGDIDANAFQHKPYLDQQLKDRGYK
+                     LVAVGNTFVYPIAGYSKKIKSLDELQDGSQVAVPNDPTNLGRSLLLLQKVGLIKLKDG
+                     VGLLPTVLDVVENPKNLKIVELEAPQLPRSLDDAQIALAVINTTYASQIGLTPAKDGI
+                     FVEDKESPYVNLIVTREDNKDAENVKKFVQAYQSDEVYEAANKVFNGGAVKGW"
+     misc_feature    2627..3439
+                     /note="DL-methionine transporter substrate-binding
+                     subunit; Provisional; Region: metQ; PRK11063"
+                     /db_xref="CDD:182939"
+     misc_feature    2666..3439
+                     /note="lipoprotein, YaeC family; Region: TIGR00363"
+                     /db_xref="CDD:129460"
+     CDS             3560..3964
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Protein RcsF"
+                     /protein_id="CCQ06601.1"
+                     /db_xref="GI:441713181"
+                     /translation="MRALPICLVALMLSGCSMLSRSPVEPVQSTAPQPKAEPAKPKAP
+                     RATPVRIYTNAEELVGKPFRDLGEVSGDSCQASNQDSPPSIPTARKRMQINASKMKAN
+                     AVLLHSCEVTSGTPGCYRQAVCIGSALNITAK"
+     misc_feature    3560..3958
+                     /note="outer membrane lipoprotein; Reviewed; Region: rcsF;
+                     PRK10781"
+                     /db_xref="CDD:182725"
+     CDS             3961..4668
+                     /codon_start=1
+                     /transl_table=11
+                     /product="COG1720: Uncharacterized conserved protein"
+                     /protein_id="CCQ06602.1"
+                     /db_xref="GI:441713182"
+                     /translation="MSSFQFEQIGVIRSPYKEKFAVPRQPGLVKSANGELHLIAPYNQ
+                     ADAVRGLEAFSHLWILFVFHQTMEGGWRPTVRPPRLGGNTRMGVFATRSTFRPNPIGM
+                     SLVELKEVVCHKDSVILKLGSLDLVDGTPVVDIKPYLPFAESLPDASASYAQSAPAAE
+                     MAVCFTAEVEKQLLTLEKRYPQLTLFIREVLAQDPRPAYRKGEETGKTYAVWLHDFNV
+                     RWRVTDAGFEVFALEPR"
+     misc_feature    3985..4374
+                     /note="Escherichia coli YaeB and related proteins; Region:
+                     UPF0066; cd09281"
+                     /db_xref="CDD:187753"
+     misc_feature    order(3985..3987,4099..4107,4111..4113,4132..4134,
+                     4144..4146,4219..4236,4246..4248,4252..4254,4258..4260,
+                     4357..4374)
+                     /note="homodimer interaction site [polypeptide binding];
+                     other site"
+                     /db_xref="CDD:187753"
+     misc_feature    order(4141..4143,4147..4152,4234..4236,4258..4260,
+                     4264..4266,4333..4335,4348..4350)
+                     /note="cofactor binding site; other site"
+                     /db_xref="CDD:187753"
+     CDS             4779..6497
+                     /EC_number="6.1.1.15"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Prolyl-tRNA synthetase"
+                     /protein_id="CCQ06603.1"
+                     /db_xref="GI:441713183"
+                     /translation="MRTSQYLLSTLKETPADAEVISHQLMLRAGMIRKLASGLYTWLP
+                     TGVRVLKKVENIVREEMNNAGAIEVLMPVVQPSELWQESGRWEQYGPELLRIADRGDR
+                     PFVLGPTHEEVITDLIRNELSSYKQLPLNFYQIQTKFRDEVRPRFGVMRSREFLMKDA
+                     YSFHTSQESLQETYDAMYAAYSKIFSRMGLDFRAVQADTGSIGGSASHEFQVLAQSGE
+                     DDVVFSDTSDYAANIELAEAIAPKEPRAAATQEMTLVDTPNAKTIAELVEQFNLPIEK
+                     TVKTLLVKAVEGSSFPLVALLVRGDHELNEVKAEKLPQVASPLTFATEEEIRAVVKAG
+                     PGSLGPVNMPIPVVIDRTVAAMSDFAAGANIDGKHYFGINWDRDVATPEIADIRNVVA
+                     GDPSPDGQGTLLIKRGIEVGHIFQLGTKYSEALKASVQGEDGRNQILTMGCYGIGVTR
+                     VVAAAIEQNYDERGIVWPDAIAPFQVAILPMNMHKSFRVQELAEKLYSELRAQGIEVL
+                     LDDRKERPGVMFADMELIGIPHTIVLGDRNLDNDDIEYKYRRNGEKQLIKTGDIVDYL
+                     VKQIKG"
+     misc_feature    4779..6491
+                     /note="prolyl-tRNA synthetase; Provisional; Region:
+                     PRK09194"
+                     /db_xref="CDD:236405"
+     misc_feature    4827..>5423
+                     /note="Prolyl-tRNA synthetase (ProRS) class II core
+                     catalytic domain. ProRS is a homodimer. It is responsible
+                     for the attachment of proline to the 3&apos; OH group of
+                     ribose of the appropriate tRNA. This domain is primarily
+                     responsible for ATP-dependent...; Region: ProRS_core_prok;
+                     cd00779"
+                     /db_xref="CDD:238402"
+     misc_feature    order(4875..4880,4899..4910,4929..4931,4980..4988,
+                     4992..4997,5055..5057,5061..5075,5127..5129,5187..5189,
+                     5238..5240)
+                     /note="dimer interface [polypeptide binding]; other site"
+                     /db_xref="CDD:238402"
+     misc_feature    4974..4997
+                     /note="motif 1; other site"
+                     /db_xref="CDD:238402"
+     misc_feature    order(5103..5105,5109..5111,5196..5198,5202..5204,
+                     5226..5234,5241..5243,5247..5249,5253..5255)
+                     /note="active site"
+                     /db_xref="CDD:238402"
+     misc_feature    5193..5204
+                     /note="motif 2; other site"
+                     /db_xref="CDD:238402"
+     misc_feature    5454..5939
+                     /note="INS is an amino acid-editing domain inserted (INS)
+                     into the bacterial class II prolyl-tRNA synthetase (ProRS)
+                     however, this CD is not exclusively bacterial. It is also
+                     found at the N-terminus of the eukaryotic/archaea-like
+                     ProRS&apos;s of yeasts and...; Region: ProRS-INS; cd04334"
+                     /db_xref="CDD:239826"
+     misc_feature    order(5613..5615,5784..5789,5862..5864)
+                     /note="putative deacylase active site [active]"
+                     /db_xref="CDD:239826"
+     misc_feature    <5985..6152
+                     /note="Class II tRNA amino-acyl synthetase-like catalytic
+                     core domain. Class II amino acyl-tRNA synthetases (aaRS)
+                     share a common fold and generally attach an amino acid to
+                     the 3&apos; OH of ribose of the appropriate tRNA.   PheRS
+                     is an exception in that it...; Region:
+                     class_II_aaRS-like_core; cl00268"
+                     /db_xref="CDD:241739"
+     misc_feature    order(6000..6005,6015..6017,6105..6110,6114..6119,
+                     6126..6128)
+                     /note="active site"
+                     /db_xref="CDD:238391"
+     misc_feature    order(6117..6119,6126..6128)
+                     /note="motif 3; other site"
+                     /db_xref="CDD:238391"
+     misc_feature    6195..6479
+                     /note="ProRS Prolyl-anticodon binding domain, short
+                     version found predominantly in bacteria. ProRS belongs to
+                     class II aminoacyl-tRNA synthetases (aaRS). This alignment
+                     contains the anticodon binding domain, which is
+                     responsible for specificity in tRNA-binding; Region:
+                     ProRS_anticodon_short; cd00861"
+                     /db_xref="CDD:238438"
+     misc_feature    order(6219..6224,6339..6341,6357..6359,6381..6383,
+                     6411..6413,6417..6419)
+                     /note="anticodon binding site; other site"
+                     /db_xref="CDD:238438"
+     CDS             6550..7374
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Uncharacterized lipoprotein yaeF precursor"
+                     /protein_id="CCQ06604.1"
+                     /db_xref="GI:441713184"
+                     /translation="MDKPKAYCRLLLPCFLLLSSCTVDISQPDSSATVVNAEAKTWAV
+                     KFQHQSSFTEQSIKEITEPDLKPGDLLFSSSLGVTSFGIRVFSTSSVSHVAIYLGDNN
+                     VAEATGAGVQIVSLKKAMKHSDKLFVLRVPDLTPQQATEITAFANKIKDSGYNYRGIV
+                     EFIPFMVIRQMCSLNPFSEDFRQQCVSGLAKAQLSSVGEGDKKSWFCSEFVTDAFAKA
+                     GHPLTLAQSGWISPADLMHMRSGDVSAFKPETQLQYIGHLKPGIYIKASRFVGLTQ"
+     misc_feature    6550..7371
+                     /note="hypothetical protein; Provisional; Region:
+                     PRK11479"
+                     /db_xref="CDD:183157"
+     misc_feature    6739..>7203
+                     /note="Orthopoxvirus protein of unknown function (DUF830);
+                     Region: DUF830; cl13998"
+                     /db_xref="CDD:246599"
+ORIGIN      
+        1 gaatttcagg atttttctct tcaaccgaac cggctgtttg tgtgaagtga ttcacatccg
+       61 ccgtgtcgat ggaggcgcat tatagggagt cgtttcagga agacaagcgg aaaaatgcat
+      121 ttttatttca accgctcatc ttttaatcat cacgccggtt tttgctgctt ttttatcgct
+      181 tgcggcaggt ctgccagact atttaacacc caatccgccg cgttttctgc ttcaggcgta
+      241 ataggtttac ccgtacgcac cagcactttc gttcccacgc tcgccgcagc cgctgcctgc
+      301 atatcttcta atttatcgcc caccatataa gaagcggcca tatcaatatg caaataatcg
+      361 cgtgctgaca aaaacatccc cggatgtggt ttgcggcagt cgcagacctg gcgaaactct
+      421 tcaacactac cctgcggatg atgcgggcaa taatagatgc catccagatc gacatcgcgg
+      481 tccgcaagcg accagtccat ccactcggtc agcgtttcaa actgtgcttc agtaaattta
+      541 ccgcgagcaa tgccagactg gttggttact accaccagcg caaagcccat tttttttagc
+      601 tcgcgcatgg cgtcaataac accgtcgata aattcaaagt tgtcgatctc atggacatag
+      661 ccgtgatcaa cattaatggt gccatcacgg tcaagaaaaa ttgcgggtac gctcttcgcc
+      721 accttttata gctccttaat aaggcatgtg acgctagtat cgcatgtttc gacctgcaag
+      781 aaagtgctct tcgcataaac ctgattgatt tagacgtctg gatgccttaa catccatttc
+      841 attgacggcg ttgcccgttc caggcattcg aaatgccacg actaacttaa tgacgataat
+      901 aaataatcaa tgataaaact ttcgaatatc accaaagtgt tccaccaggg cacccgcacc
+      961 atccaggcgt tgaacaacgt cagcctgcat gtgccagctg gacaaattta tggcgttatc
+     1021 ggtgcctcag gcgcgggtaa gagtacgctt atacgttgtg taaacctgct ggagcgccca
+     1081 accgagggta gcgtgctggt cgatggccag gaactgacca cgctgtcaga atccgagttg
+     1141 accaaagctc gtcgccagat tggtatgatt ttccagcatt ttaacctgct ctcttcgcgt
+     1201 actgtttttg gcaacgtggc tctgccgctg gagctggaca acacaccgaa agacgagatc
+     1261 aaacgtcgcg tgacggaatt gctgtcattg gttggtcttg gcgataagca tgatagctac
+     1321 ccgtcgaatc tttccggtgg gcagaaacaa cgtgtggcga ttgcccgtgc attagccagc
+     1381 aatcccaaag tattgctgtg tgatgaagcc accagcgcgc tggacccggc aacgacacgt
+     1441 tctattctcg aactgctgaa agacatcaac cgccgtctgg gtttgacgat tctgttgatc
+     1501 actcacgaaa tggacgttgt gaagcgcatt tgtgattgcg tggcggtcat cagcaatggc
+     1561 gaactgatcg agcaggacac ggtaagtgaa gtgttctcgc atccgaaaac gccgctggcg
+     1621 cagaagttta ttcagtcgac cctgcatctg gatatcccgg aagattacca ggaacgtctg
+     1681 caagcggagc catttactga ctgcgtgccg atgctgcgtc tggagtttac cggtcaatcg
+     1741 gtcgatgccc cactgctttc tgaaaccgcg cgtcgtttca acgtcaacaa caacattatt
+     1801 agcgcgcaga tggattacgc cggtggcgtt aagttcggca tcatgctgac tgaaatgcac
+     1861 ggcacacaac aagatacgca agccgccatt gcctggctgc aggaacacca tgtaaaagta
+     1921 gaggtactgg gttatgtctg agccgatgat gtggctgctg gttcgtggcg tatgggaaac
+     1981 gctggcaatg accttcgtat ccggtttttt tggctttgtg attggtctgc cggttggcgt
+     2041 tctgctttat gtcacgcgtc cggggcaaat tattgctaac gcgaagttgt atcgtaccat
+     2101 ttctgcgatt gtgaacattt tccgttccat cccgttcatt atcttgctgg tatggatgat
+     2161 tccgtttacc cgcgttattg tcggtacatc gattggattg caggcagcga ttgttccgtt
+     2221 aaccgttggt gcagcaccgt ttattgcccg tatggtcgag aacgctctgc tggagatccc
+     2281 aaccgggtta attgaagctt cccgcgcaat gggggccacg ccaatgcaga tcgtccgtaa
+     2341 agtgctgtta ccggaagcgt tgccgggtct ggtgaatgcg gcaactatca ccctgattac
+     2401 cctggttggt tattccgcga tgggtggtgc agtcggtgcc ggtggtttag gtcagattgg
+     2461 ctatcagtat ggctacatcg gctacaacgc gacggtgatg aatacggtac tggtattgct
+     2521 ggtcattctg gtttatttaa ttcagttcgc aggcgaccgc atcgtccggg ctgtcactcg
+     2581 caagtaacgt tcaacacaac ataaataatt gaagaaggaa taaggtatgg cgttcaaatt
+     2641 caaaaccttt gcggcagtgg gagccctgat tggatcactg gcactggtag gctgcggtca
+     2701 ggatgaaaaa gatccaaacc acattaaagt cggcgtgatt gttggtgccg aacagcaggt
+     2761 tgcagaagtc gcgcagaaag ttgcgaaaga caaatatggc ctggacgttg agctggtaac
+     2821 cttcaacgac tatgttctgc caaacgaagc attgagcaaa ggcgatatcg acgccaacgc
+     2881 cttccagcat aaaccgtacc ttgatcagca actgaaagat cgtggctaca aactggtcgc
+     2941 agtaggcaac acatttgttt atccgattgc tggttactcc aagaaaatca aatcactgga
+     3001 tgaactgcag gatggttcgc aggttgccgt gccaaacgac ccaactaacc ttggtcgttc
+     3061 actgctgctg ctgcaaaaag tgggcttgat caaactgaaa gatggcgttg gcctgctgcc
+     3121 gaccgttctt gatgttgttg agaacccaaa aaatctgaaa attgttgaac tggaagcacc
+     3181 gcagctaccg cgctctctgg acgacgcgca aatcgctctg gcagttatca ataccaccta
+     3241 tgccagccag attggcctga ctccagcgaa agacggtatc tttgtcgaag ataaagagtc
+     3301 cccgtacgta aacctgatcg taacgcgtga agacaacaaa gacgccgaaa acgtgaagaa
+     3361 attcgttcag gcttatcagt ctgacgaagt ttacgaagca gcaaacaaag tgtttaacgg
+     3421 cggcgctgtt aaaggctggt aatatttagg ctgtttccac aatttgtaat atcattcagg
+     3481 acgggcgctt gcccgtcttg tcatttttac aagcgcctga ttcaatattg acgttttgat
+     3541 catacattga ggaaatacta tgcgtgcttt accgatctgt ttagtagcac tcatgctaag
+     3601 cggctgttcc atgttaagca gatcccctgt cgaacccgtt caaagcactg caccccagcc
+     3661 gaaagcggag cctgcaaaac cgaaagcgcc gcgcgccacg ccggtccgaa tttataccaa
+     3721 tgcagaagaa ttagtcggca aaccgttccg cgatctcggt gaagtcagtg gcgactcttg
+     3781 ccaggcctct aatcaggact ctccgccgag cattccaacc gcacgtaagc ggatgcaaat
+     3841 caacgcctcg aaaatgaaag ccaatgcggt attactgcat agctgcgaag ttaccagcgg
+     3901 tacgccaggt tgctatcgtc aggctgtatg tatcggttct gcgcttaaca tcacggcgaa
+     3961 atgagcagtt ttcagttcga gcaaataggc gttattcgct cgccctataa agaaaaattc
+     4021 gccgttccgc gccagccagg tctggtaaaa agcgccaacg gcgaactaca tctcattgct
+     4081 ccctacaacc aggccgacgc cgttcgcggc ctggaagcat tcagccattt atggatcctt
+     4141 ttcgtctttc atcaaacgat ggaaggcggc tggcgtccga ctgtgcgtcc gcctcgtctt
+     4201 ggcggtaata ccagaatggg tgttttcgct acgcgctcca ctttccgccc taacccgatt
+     4261 ggtatgtcgc tggtagagct gaaggaggtt gtttgccata aagacagcgt gattctgaag
+     4321 ctcggcagtc tggatctggt cgatggtacg ccggtagtgg atatcaaacc gtatctcccc
+     4381 tttgctgaat cgcttcccga tgccagtgcc agctatgcgc aaagtgcgcc agcggcagaa
+     4441 atggcggtgt gttttaccgc agaggtcgaa aagcagcttt tgacgctgga gaagcgttat
+     4501 ccgcagttaa cgctgtttat ccgcgaagta ctggcgcagg acccgcgccc ggcctatcgt
+     4561 aaaggtgagg aaacgggcaa aacctatgcc gtctggctgc atgattttaa cgttcgctgg
+     4621 cgcgtcaccg acgcaggttt tgaagtcttt gcgctggaac cgcgttaaat tcacgccctt
+     4681 ctcttttgac atttcttttg cactggtaaa ctaaatcact ttttttgtcc caggctcgcc
+     4741 ttgagcctgt tctaccttcc aactggaacc gtaacaacat gcgtactagc caatacctgc
+     4801 tctccactct caaggagaca cctgccgacg ccgaggtgat cagccatcag ctgatgctgc
+     4861 gcgccgggat gatccgcaag ctggcctccg ggttatatac ctggctgccg accggcgtgc
+     4921 gcgttctgaa aaaagtcgaa aacatcgtgc gtgaagagat gaacaacgcc ggtgcgatcg
+     4981 aggtgttaat gccggtggtt cagccatctg aactgtggca agagagtggt cgttgggaac
+     5041 agtatggccc ggaattgctg cgtattgctg accgtggtga ccgtccgttc gtactcggcc
+     5101 caactcatga agaagtgatt acagacctga ttcgtaacga gctgagctct tacaaacagc
+     5161 tgccgctgaa cttctatcag atccagacca agttccgcga cgaagtgcgt ccgcgttttg
+     5221 gcgtcatgcg ttcccgcgaa ttcctgatga aagatgctta ctctttccat acttctcagg
+     5281 aatccctgca ggaaacctac gatgcaatgt atgcggccta cagcaaaatc ttcagccgca
+     5341 tggggctgga tttccgcgcc gtacaggccg ataccggttc tatcggcggt agcgcctctc
+     5401 acgaatttca ggtgctggcg cagagcggtg aagacgatgt ggtcttctcc gatacttctg
+     5461 actacgcagc gaacattgaa ctggcagaag ctatcgcgcc gaaagaaccg cgcgctgctg
+     5521 ctacccagga aatgacgctg gttgatacgc cgaacgcgaa aaccatcgcg gaactggttg
+     5581 aacagttcaa tctgccgatt gagaaaacgg ttaagactct gctggttaaa gccgttgaag
+     5641 gcagtagctt cccgctggtt gcgctgctgg tgcgcggtga ccacgagctg aacgaagtta
+     5701 aagcagaaaa actgccgcag gttgccagcc cgctgacttt tgcgaccgaa gaagaaattc
+     5761 gtgccgtggt taaagccggt ccgggttcac tgggtccggt aaacatgccg attccggtgg
+     5821 tgattgaccg taccgttgcg gcgatgagtg atttcgctgc tggtgctaac atcgatggta
+     5881 aacactactt cggtatcaac tgggatcgcg atgtcgctac tccggaaatt gctgatatcc
+     5941 gcaacgtggt ggctggcgat ccaagcccgg atggtcaggg tacgctgctg atcaaacgtg
+     6001 gtatcgaagt cggtcacatc ttccagctgg gtaccaagta ctccgaagca ctgaaagcct
+     6061 ccgtacaggg tgaagatggc cgtaaccaaa tcctgacgat gggttgctac ggtatcggcg
+     6121 taacgcgtgt ggtagctgcg gcgattgagc agaactacga cgaacgcggc atcgtatggc
+     6181 ctgacgctat cgcgccgttc caggtggcga ttctgccaat gaacatgcac aaatccttcc
+     6241 gcgtacagga acttgctgag aaactgtaca gcgaactgcg cgcacaaggt atcgaagtgc
+     6301 tgctggatga ccgcaaagag cgcccgggcg tgatgtttgc tgatatggaa ctgatcggta
+     6361 ttccgcacac tattgtgctg ggcgaccgta acctcgacaa cgatgatatc gaatataaat
+     6421 atcgtcgtaa cggcgagaaa cagttaatta agactggtga catcgtcgat tatctggtga
+     6481 aacagattaa aggctgatgc cagaaagggt cctgaatttc ggggcccttt tttacatgga
+     6541 ttgtataaaa tggataaacc aaaggcgtac tgccgcctgc ttctcccctg ctttctttta
+     6601 ctttcgtcct gtaccgttga tatcagccag ccagactcat cagccacagt ggtaaatgcc
+     6661 gaggcgaaaa catgggctgt taaattccag catcaaagct ctttcaccga acaatcaata
+     6721 aaagaaataa cggaaccaga tctcaaaccc ggcgatttgc ttttctcctc aagccttggg
+     6781 gtaacctcat ttggtatccg cgtattcagc acttcctctg tgagtcacgt tgcaatctat
+     6841 ttgggagata acaacgttgc cgaagcgaca ggcgctggcg tccagattgt ttcccttaaa
+     6901 aaagccatga agcatagtga taagcttttc gtcttacgag tcccggacct taccccgcaa
+     6961 caagccacag aaatcaccgc gttcgccaat aaaatcaaag atagcggtta taactatcgc
+     7021 ggcattgtcg aatttattcc atttatggtg attcgccaga tgtgctcact aaatccgttc
+     7081 tccgaggatt ttcgtcaaca gtgcgtcagc ggcctggcga aagcgcagtt aagcagtgtg
+     7141 ggcgaaggag acaaaaagtc gtggttttgt tcggaatttg tcactgatgc atttgccaaa
+     7201 gccgggcatc cgcttacgct ggcgcaatca ggctggatta gccctgccga tctgatgcat
+     7261 atgcgtagtg gtgatgtctc tgcatttaaa ccagaaacgc agttacagta tattgggcac
+     7321 ctgaagccag ggatttatat taaagcaagt cgctttgttg gactgactca gtgataaaag
+     7381 ccagcctcgt gcgcaaaatg ccggatgcgg cgtgaactga actgcacccc aaatgttgga
+     7441 cataatctga catctgaagg tgcagtttat gaaacattca tttgaagtaa aacttgccgc
+     7501 tgtaaa
+//

@@ -1,0 +1,495 @@
+LOCUS       CAPM01000142           11735 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            45, whole genome shotgun sequence.
+ACCESSION   CAPM01000142 CAPM01000000
+VERSION     CAPM01000142.1  GI:441710311
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..11735
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 45"
+     CDS             complement(149..1135)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00640604: hypothetical protein"
+                     /protein_id="CCQ09069.1"
+                     /db_xref="GI:441710312"
+                     /translation="MYHHDFNEKIGFWYVIALAGQSNGMAYGEGIPLPDTLDKPESRV
+                     KQLARRKTITPGGKECKFNEIIPADHCLHDVQDMSGYHHPAADLHKGEYGCVGQGLHI
+                     AKKLLPYIPEQAGILLVPCCRGGAAFTVGAEGMYVPDTGATADAMRWGTGTALYEDLV
+                     ARVKVALEYNRKNKLLSVCWMQGEFDLMSPDYEKHPDLFYQMVTSFRSELSEYSSQCV
+                     GNSSERVPWLCGDTTWYWKESYQKEYDFIYGHYRQRTDDEIHFLSFQDSNRHELTNEP
+                     EEDADDLSVGYLGSSWRTELSWTTSQRSTHFNSMARRGVIAECYAQKIRNYL"
+     misc_feature    complement(<407..1096)
+                     /note="Domain of unknown function (DUF303); Region:
+                     DUF303; pfam03629"
+                     /db_xref="CDD:217645"
+     CDS             1235..1969
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Transcriptional regulator NanR"
+                     /protein_id="CCQ09070.1"
+                     /db_xref="GI:441710313"
+                     /translation="MSDNKKTVLPGLTTTRKPIVTKKLSEIVAEELERMIRQEEIREG
+                     EYLPSERELMAFFGVGRPSVREALSSLRHKGLIRYNKGEKASVCRPSPETIINGLSGI
+                     VKDFLSTADGIKDFERLRIFFETNLVRYAAKNATPEDIHRLEKVLSIHHNSLRTPEVY
+                     AQYDIEFHSILADIPDNKVLKTIHSAFSEWLIMAKPLEKNKMTYENNKKTHQQHIEIL
+                     TAIKEHDCDKAEQLMYNHLYKRIEAS"
+     misc_feature    1265..1945
+                     /note="transcriptional regulator NanR; Provisional;
+                     Region: PRK03837"
+                     /db_xref="CDD:235166"
+     misc_feature    1301..1465
+                     /note="Winged helix-turn-helix (WHTH) DNA-binding domain
+                     of the GntR family of transcriptional regulators; Region:
+                     WHTH_GntR; cd07377"
+                     /db_xref="CDD:153418"
+     misc_feature    order(1301..1303,1307..1309,1376..1378,1382..1387,
+                     1409..1423,1427..1432,1439..1441)
+                     /note="DNA-binding site [nucleotide binding]; DNA binding
+                     site"
+                     /db_xref="CDD:153418"
+     misc_feature    1577..1945
+                     /note="FCD domain; Region: FCD; pfam07729"
+                     /db_xref="CDD:219539"
+     CDS             complement(2005..2928)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Xylanase"
+                     /protein_id="CCQ09071.1"
+                     /db_xref="GI:441710314"
+                     /translation="MNKDRSLNEMMLSLFNKSTIVDLSSETISESKSLSGRIYQDPEH
+                     NGEFELDRVLTDIYAPQLIIFLPDKPNGTGILIIPGGGYQAVMLDKEGTALAPEFLSQ
+                     GYTLFVLSYRLPSPVEGENINKTFIDAISAMLYIRKNADKWHLQRHRIGVLGFSAGGH
+                     IASTFVNQICDFKRSSDSKEQEIFAIPDFVGLIYPVISMKDDVTHPGSRKQLLGDNST
+                     SENIIQYSADLNVTSCFPPVFLLHCCDDDLVSIENSLLMYRGLIEKGVSAEMHLYEKG
+                     GHGFSIQWATDLSVGGWIKLFMDWMYSHGFK"
+     misc_feature    complement(2092..2709)
+                     /note="Alpha/beta hydrolase family; Region: Abhydrolase_5;
+                     pfam12695"
+                     /db_xref="CDD:221718"
+     misc_feature    complement(2089..>2484)
+                     /note="Prolyl oligopeptidase family; Region: Peptidase_S9;
+                     pfam00326"
+                     /db_xref="CDD:215859"
+     CDS             complement(2990..4099)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Sialic acid-induced transmembrane protein
+                     YjhT(NanM), possible mutarotase"
+                     /protein_id="CCQ09072.1"
+                     /db_xref="GI:441710315"
+                     /translation="MKVKNFIYLPFCLFIGTSVAGALPEIPEPFKYGVGGIENGKIYI
+                     GLGSLGNNWYMIDTNQSEKKWTKIAQWPTVPREQATATIIDGKIYVFGGIGKDKSGVI
+                     TLQKDVYSYDIAKDKWEKLMTRPPVSLAGHVSFIHNGHAVSTGGVNENIFNGYFSDVE
+                     LSKGNSALTEKVNRDYFSKPADDYFLNNHIISYDPSKNQWKNLGTTPFPGTAGSSVIF
+                     AEQQIYILGGERKPGLRSVRSWTGELSHDRIKWSELPPVASPEGVSGAYASVIDGNIF
+                     LAGGAYFPGAAEKYSNGEYWSHKGLDKAYSKEIYQLIKNDWKKVGSLPEGLAYGVSLP
+                     WQGGMLILGGEKKDGKAVSDVIYLKKNDKQIKIVK"
+     misc_feature    complement(2993..4087)
+                     /note="N-acetylneuraminic acid mutarotase; Provisional;
+                     Region: PRK14131"
+                     /db_xref="CDD:237617"
+     misc_feature    complement(3737..3877)
+                     /note="Kelch motif; Region: Kelch_1; pfam01344"
+                     /db_xref="CDD:201739"
+     CDS             complement(4112..4852)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="N-acetylneuraminic acid outer membrane channel
+                     protein NanC"
+                     /protein_id="CCQ09073.1"
+                     /db_xref="GI:441710316"
+                     /translation="MINIFNDEAFMKKYYPLLTVILLGLPLCSQALTLNLRGGYRSAS
+                     HAYETLIQVSQGWNNGWWASFESNTWNTIHNNENELFALNYNKIDINKTYKIDDKWAL
+                     IPGIQTQWMSAGSQYNPYLKISYQATPDLNLALRYRYDWKAFRQTDLDGNRARNDQHQ
+                     FDGYVTYKINDSWLFAWQTTVYTKVNNFKYGNHKKTATENAFVLQYKMSPVFTPYIEY
+                     DYLDKQGVYKGKDNKHENSYRVGVLINF"
+     misc_feature    complement(4115..4771)
+                     /note="Oligogalacturonate-specific porin protein (KdgM);
+                     Region: KdgM; pfam06178"
+                     /db_xref="CDD:218926"
+     CDS             complement(4868..5677)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Xylanase"
+                     /protein_id="CCQ09074.1"
+                     /db_xref="GI:441710317"
+                     /translation="MIHYRENIYSLDNYERYITDSSLFENTGDGIIYTGIVPLITVVE
+                     PVVSNQHSVLIIPGGGYRRIVYEREGLDVGRWIAGQGYTAFILSYRMPSVNGYYSFAD
+                     AKNALNFISYWAGMSERTFKSVGCMGFSAGGHLAGYITHLHYEEETSVRPDWMALIYP
+                     VISLDRSIAHQGCRKRLLDAGESEYSASLENSVTEYMPPVFIVHATDDKDVPVIHSLR
+                     YFNSIRDKGHHAEAHFFDKGGHGFGVSGKNGYPIEKWQSLLLEWLAEHKFH"
+     misc_feature    complement(4955..5521)
+                     /note="Alpha/beta hydrolase family; Region: Abhydrolase_5;
+                     pfam12695"
+                     /db_xref="CDD:221718"
+     misc_feature    complement(4880..5395)
+                     /note="Prolyl oligopeptidase family; Region: Peptidase_S9;
+                     pfam00326"
+                     /db_xref="CDD:215859"
+     CDS             complement(5702..7174)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Sialic acid transporter (permease) NanT"
+                     /protein_id="CCQ09075.1"
+                     /db_xref="GI:441710318"
+                     /translation="MDSCIQKKQVWYKHLSPRQWKIFGAAWTGYLLDGFDFVLISLVL
+                     TEVQHEFGLTTIEAASLISAAFISRWFGGLAIGALSDKMGRRMAMVLSIVLFSLGTLA
+                     CGLAPGYAVMFIARIVIGLGMAGEYGSSVTYVIESWPVHLRNKASGFLISGFSIGGGL
+                     AAQVYSIVVPLWGWRSLFFVGMLPILFAFYLRKNLPESDDWQKRQQENKPVRTMVDIL
+                     YREKNKYINILLSCIAFACLYVCFSGVTANAALITVMALCCAAVFISFIYQGMGKRWP
+                     TGIMLMLVVMFCFLYGWPLQAFLPTWLKVDMQYSPETVALIFMLAGFGSAAGSCIGGF
+                     MGDWLGTRKAYVISLLIGQLVIIPVFLVDRDYVWLLGLLIFTQQVFGQGIGALVPKII
+                     SGYFNVEQRAAGLGFIYNVGSLGGACAPILGAVVASHTSLGTAMCSLAFILTFVVLVL
+                     IGFDMPSRVQRWIHPEAALEYDTVDGKPFYGARKKNVAEE"
+     misc_feature    complement(5705..7171)
+                     /note="putative sialic acid transporter; Provisional;
+                     Region: PRK03893"
+                     /db_xref="CDD:179668"
+     misc_feature    complement(5816..7108)
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; Region: MFS; cd06174"
+                     /db_xref="CDD:119392"
+     misc_feature    complement(order(5927..5929,5936..5941,5948..5953,
+                     5960..5965,5996..5998,6005..6010,6020..6022,6029..6034,
+                     6041..6043,6308..6310,6320..6322,6329..6331,6371..6373,
+                     6383..6385,6425..6427,6434..6439,6446..6451,6458..6460,
+                     6701..6703,6719..6724,6731..6736,6770..6772,6779..6784,
+                     6791..6796,6803..6808,6944..6949,6953..6958,6968..6970,
+                     6977..6982,6989..6991,7040..7045,7049..7057,7064..7066))
+                     /note="putative substrate translocation pore; other site"
+                     /db_xref="CDD:119392"
+     CDS             complement(7223..8098)
+                     /EC_number="2.7.1.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="N-acetylmannosamine kinase"
+                     /protein_id="CCQ09076.1"
+                     /db_xref="GI:441710319"
+                     /translation="MITLAVDIGGTKISAALISDDGSFLLKKQISTPHERCPDEMTGA
+                     LRLLVSEMKGTAERFAVASTGIINNGVLTALNPDNLGGLKEYPLKNIMEDITGLNGSV
+                     INDAQAAAWAEYTVLPKEICDMVFITVSTGVGGGIVVNRKLLTGVSGLAGHVGHILSG
+                     VTDTECGCGRRGCVEAVSSGRAIMGAAKNKLAGYSTKYIFELARQGYKEAEFLTERSA
+                     STIAELIVSLKLLLDCQVVVVGGSVGLADGYVQKVSKHLSIYSEICNVMLFPAYFRSD
+                     SGLIGATLWDRDCIT"
+     misc_feature    complement(7226..8098)
+                     /note="N-acetylmannosamine kinase; Provisional; Region:
+                     PRK05082"
+                     /db_xref="CDD:235338"
+     misc_feature    complement(<7739..8089)
+                     /note="Nucleotide-Binding Domain of the sugar
+                     kinase/HSP70/actin superfamily; Region:
+                     NBD_sugar-kinase_HSP70_actin; cd00012"
+                     /db_xref="CDD:212657"
+     misc_feature    complement(order(7784..7786,8057..8059,8063..8065,
+                     8069..8080))
+                     /note="nucleotide binding site [chemical binding]; other
+                     site"
+                     /db_xref="CDD:212657"
+     CDS             complement(8132..9049)
+                     /EC_number="4.1.3.3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="N-acetylneuraminate lyase"
+                     /protein_id="CCQ09077.1"
+                     /db_xref="GI:441710320"
+                     /translation="MQCEFKGVISALPTPYDQSQQIDMESLRKLIRFNIEQNIKGLYV
+                     GGSTGEAFLQNVAEREKILETVADESDGRLTLIAHVGGISTAESEVLAKAAKKYGYHA
+                     ISAVTPFYYPFSFEEHCIHYRKIIDSADGLPMVVYNIPALSGVRFSLDQINELVTIPR
+                     VCALKQTSGDLFQMEQIKRNHPELVLYNGYDEIFASGLIAGADGGIGSTYNIMGWRYL
+                     EIFEAVKNNDVIKAKEMQVACNQVIDTLIQSGVLAGIKTLLYYMGIINTPVCRSPFSP
+                     VKEKNLDVLSKLAERLFEEHDRNKKMKII"
+     misc_feature    complement(8165..9046)
+                     /note="N-acetylneuraminate lyase; Provisional; Region:
+                     PRK04147"
+                     /db_xref="CDD:179749"
+     misc_feature    complement(8180..9034)
+                     /note="N-Acetylneuraminic acid aldolase, also called
+                     N-acetylneuraminate lyase (NAL); Region: NAL; cd00954"
+                     /db_xref="CDD:188641"
+     misc_feature    complement(order(8555..8557,8639..8641,8906..8914,
+                     8921..8923,9017..9019))
+                     /note="inhibitor site; inhibition site"
+                     /db_xref="CDD:188641"
+     misc_feature    complement(order(8432..8434,8555..8557,8639..8641,
+                     8906..8914,8921..8923))
+                     /note="active site"
+                     /db_xref="CDD:188641"
+     misc_feature    complement(order(8231..8236,8687..8689,8699..8701,
+                     8720..8725,8795..8800,8891..8896,8909..8911))
+                     /note="dimer interface [polypeptide binding]; other site"
+                     /db_xref="CDD:188641"
+     misc_feature    complement(8555..8557)
+                     /note="catalytic residue [active]"
+                     /db_xref="CDD:188641"
+     CDS             9773..10135
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ09078.1"
+                     /db_xref="GI:441710321"
+                     /translation="MVKLASQLGASVARIAREHDINDNLLFKWLRLWQNEGRISRRLP
+                     VTTSSDAGVELLPVEITPDEQKEPMAALTPLLSTPSQSTVSASSCKVEFRHGNMTLEN
+                     PSPELLTVLIRELTGRGR"
+     misc_feature    9773..10114
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG2963"
+                     /db_xref="CDD:225511"
+     misc_feature    9773..9976
+                     /note="Transposase; Region: HTH_Tnp_1; pfam01527"
+                     /db_xref="CDD:201841"
+     CDS             10186..10482
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ09079.1"
+                     /db_xref="GI:441710322"
+                     /translation="MRKSFNGLGEQVQHVLDENPFSGHLFIFRGRRSDMIKILWADAD
+                     GLCLFTKRLEEGLFIWPAVRDGKVSITRSQLAMLLDKLDWRQPKTSRLNALTML"
+     misc_feature    <10186..10479
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG3436"
+                     /db_xref="CDD:225970"
+     misc_feature    10186..10449
+                     /note="IS66 Orf2 like protein; Region: TnpB_IS66;
+                     pfam05717"
+                     /db_xref="CDD:191353"
+     CDS             10513..11613
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ09080.1"
+                     /db_xref="GI:441710323"
+                     /translation="MSRKYLIRITELERLLSEQAEALRQRDLQLSLVEETEAFLRSAL
+                     ARAEEKIEEEEREIEYLRAQIEKLRRMLFGTRSEKLQREVEQAEAQLKQREQESDRYS
+                     GREDDPQVPRQLRQSRHRRPLPAHLPREIHRLEPEESCCPECGSELDYLGEVSAEQLE
+                     LVSSALKVIRTVRVKKACTKCDCIVEAPAPSRPIARGIAGSGLLARVLTGKYCEHLPL
+                     YRQSEIFARQGAELSRALISNWVDACCQLMTPLNDALYRYVMNTRKVHTDDTPVKVLT
+                     PGRKKAKTGHIWTYVRDDRNAGSSEPPAVWFAYSPDRQGKHPVQHLRPFRGILQADAF
+                     SGYDRLFSAKREGGAQTEVACWVHARRKIHDV"
+     misc_feature    10693..>10851
+                     /note="Transposase C of IS166 homeodomain; Region:
+                     LZ_Tnp_IS66; pfam13007"
+                     /db_xref="CDD:221891"
+     misc_feature    <10954..11328
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG3436"
+                     /db_xref="CDD:225970"
+     misc_feature    <10954..11082
+                     /note="putative Helix-turn-helix domain of transposase
+                     IS66; Region: HTH_Tnp_IS66; pfam13005"
+                     /db_xref="CDD:221890"
+     misc_feature    11098..>11610
+                     /note="Transposase IS66 family; Region: DDE_Tnp_IS66;
+                     pfam03050"
+                     /db_xref="CDD:217337"
+ORIGIN      
+        1 ttctccaatg actagtctaa aaactagtat taagactatc acttatttaa gtgatattgg
+       61 ttgtctggag attcaggggg ccagtctaac cactccgtca tgtctctcag agaatcatgt
+      121 cagagctgta gatatatcct gaacttgtct acaaataatt tcttattttt tgcgcataac
+      181 attcagcaat aactcccctt ctggccattg aattaaaatg tgtacttctc tgtgacgttg
+      241 tccagcttaa ttctgtcctc catgatgacc ccagataccc gacagataaa tcatcggcat
+      301 cttcttctgg ctcattagtt aattcatgtc ggttactatc ctgaaagctg agaaaatgta
+      361 tttcatcatc agtccgttgt ctgtaatgtc catatataaa atcatattct ttttgataag
+      421 attccttcca gtaccaggtt gtatcaccac acaaccatgg aactctttct gacgaattac
+      481 caacacactg agatgagtat tcagataact cagacctgaa agaagttacc atctgataaa
+      541 acaagtcagg atgcttttca taatctggtg acataagatc aaactccccc tgcatccagc
+      601 agacagatag cagtttattc tttctgttat attccagagc taccttaacc cgggctacta
+      661 agtcctcata gagtgctgtt ccggtgcccc accgcattgc atcagctgtt gcccctgtat
+      721 caggtacata cataccttca gctccaacag taaaggcggc acctcctctg caacaaggaa
+      781 ccagtaatat ccctgcttgc tcaggtatgt atggcagtaa ctttttagct atatgcaatc
+      841 cctgtccgac acaaccatat tcccctttat gcaaatcagc agccggatgg tgatatccac
+      901 tcatatcctg aacatcatgc aggcagtgat ctgccggaat aatctcattg aatttacact
+      961 cttttcctcc tggtgtgatt gtttttcgac gagccagttg ttttacacgg gactcgggtt
+     1021 tgtcgagtgt atctggcagg ggaatacctt caccgtaggc cataccatta gactgtcctg
+     1081 cgagggctat cacataccag aaacctattt tttcattaaa atcatgatga tacatcattc
+     1141 cccctttaca taatagattt aattaaatat tttcattatt aaaagaaagt gttaaattaa
+     1201 aaactcattt gctctaatcc atataaatca atatatgtcc gacaacaaaa aaaccgtgtt
+     1261 acccgggcta acaacgacca gaaagcccat tgttacaaaa aaactttcag aaatcgttgc
+     1321 cgaagagctt gaaagaatga tccgccagga ggagataagg gaaggtgaat acctgccttc
+     1381 tgaacgtgaa cttatggcat tctttggcgt tggaagacca tctgtcagag aggctttatc
+     1441 atctctcaga cataaagggc taatccggta taacaaggga gaaaaagcca gtgtctgccg
+     1501 tccatcacca gaaaccatca ttaatgggtt atcaggcatt gttaaagatt ttttatctac
+     1561 agctgatggc atcaaggatt ttgaaagact acgcatcttt tttgaaacca accttgtaag
+     1621 atatgcagca aaaaatgcaa cgcctgagga tattcacagg cttgagaagg tgctcagtat
+     1681 ccatcataac tcactgagaa cccccgaagt gtatgctcaa tatgatattg aatttcatag
+     1741 tatacttgct gatatacctg acaataaagt attaaaaaca atacactcag cattttctga
+     1801 atggctgata atggccaaac ctctggaaaa gaataaaatg acatatgaaa ataacaaaaa
+     1861 aacccatcag cagcatattg aaatacttac ggccataaaa gagcatgatt gtgataaagc
+     1921 tgaacagcta atgtataatc acctttataa acgaattgaa gcatcatagt tactcgacgc
+     1981 ttcaccaggt agtcaccata aatattattt aaatccatga gaatacatcc agtccataaa
+     2041 cagttttatc catcctccaa cagaaagatc tgtggcccac tgaatactaa aaccatgccc
+     2101 tcctttctca tagagatgca tttcagcaga aacgcctttc tctattaggc cacggtacat
+     2161 gagcagactg ttttcaattg acacaagatc atcatcacaa caatggagta aaaacacagg
+     2221 aggaaaacat gatgtgacat taagatccgc actatattgt attatatttt ctgaggtact
+     2281 attgtccccc agtaattgct tcctggagcc tggatgtgtc acatcatctt tcattgatat
+     2341 tacaggataa attaacccga caaaatcggg aatagcgaaa atctcttgtt ctttactgtc
+     2401 agaagaacgt ttgaaatcac aaatctgatt cacaaacgtt gaggcgatat gccccccagc
+     2461 agaaaatcct aatacaccaa tacgatgacg ctgtagatgc catttatcag cattcttacg
+     2521 aatataaagc attgcagata ttgcatcaat aaaagttttg tttatatttt ctccctcaac
+     2581 tggcgatggt aatctgtaac taagaacaaa taatgtatag ccctgagata aaaactctgg
+     2641 agcaagagct gtaccttcct tatctaacat aacagcctgg tagccccccc cgggaataat
+     2701 caatattcct gttccatttg gtttatctgg taaaaaaata attaactgag gagcataaat
+     2761 atctgtcaat acacgatcaa gttcaaattc cccgttatgt tcaggatcct gataaatacg
+     2821 gcctgaaaga gatttactct cagatattgt ctcacttgac aagtcaacaa tagttgattt
+     2881 attaaacaag cttaacatca tttcatttaa agatctatct ttattcatta taaaccccat
+     2941 taaaataact caggtgactg aacaactaat acagtcacct gcattacagt tatttaacaa
+     3001 tctttatttg tttgtcattt tttttcagat aaataacatc tgaaacagct ttaccatctt
+     3061 ttttctcccc ccccagaatg agcatccccc cctgccaggg caggcttaca ccataagcaa
+     3121 gtccttccgg caaagaacca acttttttcc agtcattttt tattagctga tatatctctt
+     3181 ttgaataggc tttatccagt cctttatgag accagtattc accattgcta tacttttctg
+     3241 ccgcccccgg gaaatatgca ccaccggcca gaaagatatt tccatcaata acagaggcat
+     3301 atgctcctga caccccctcg ggtgaagcta ctggtggaag ttcagaccat ttaattcgat
+     3361 catgcgaaag ctcccccgtc caggatctaa cagaacgaag ccccggtttt ctctcccctc
+     3421 ccagtatata aatttgctgt tctgcaaaaa tcaccgatga accagcagtt cccggaaatg
+     3481 gagtcgttcc caggttcttc cactggtttt ttgacgggtc ataagaaatt atatgattat
+     3541 ttaaaaaata atcatcagca ggtttactaa aataatccct gttgactttc tctgtcagcg
+     3601 cggaattccc ttttgataac tcgacatctg aaaagtatcc attaaaaata ttctcattta
+     3661 caccaccagt agataccgca tgaccattat ggataaaaga aacatgaccg gcaagagata
+     3721 cagggggacg ggtcatcaat ttttcccatt tatctttagc aatatcatag gaatagacat
+     3781 ctttttgtaa ggttatgact ccacttttat cttttccaat tcctccaaat acatagatct
+     3841 taccatcaat aatagtagct gttgcctgct ctctgggaac tgtcggccat tgcgctatct
+     3901 tagtccattt tttttcactc tggtttgtat ctatcatata ccagttattt cccagacttc
+     3961 ctagtcctat atatatttta ccattctcga tccctcctac accatattta aatggttcag
+     4021 gaatttccgg taaagctccg gctaccgacg ttccaataaa caagcagaag ggaagatata
+     4081 taaagttttt cactttcatt gtaatcacct tttaaaaatt aatcagaaca ccgacacggt
+     4141 aactattttc atgtttatta tctttcccct tatacacccc ttgtttatcc aagtaatcat
+     4201 attctatata tggggtgaac accggtgaca ttttatattg cagaacaaat gcattttcag
+     4261 ttgctgtttt tttatgattc ccatatttga aattattaac cttcgtatat accgtggtct
+     4321 gccatgcaaa caaccatgaa tcattaattt tgtatgtcac ataaccatca aactgatgct
+     4381 gatcattacg cgccctgttg ccatctaaat ccgtctgtcg gaaagctttc cagtcatagc
+     4441 gatagcgtaa ggccagatta agatctggcg ttgcctgata cgaaattttc agataagggt
+     4501 tatactgact tcctgctgac atccattgtg tctgaatccc tgggattaga gcccatttgt
+     4561 catctatttt atatgtttta tttatatcta ttttattata attgagtgca aacaattcat
+     4621 tttcattgtt gtgaattgta ttccaggtgt ttgactcaaa acttgcccac caaccattat
+     4681 tccacccctg actaacctga atcaacgttt cataagcgtg actggcgctt ctgtatcccc
+     4741 cacgtagatt aagagttaat gcctgagagc acaaaggtaa accaagaaga attacagtta
+     4801 atagtggata atattttttc ataaatgcct catcattaaa tatatttatc acttgtaatt
+     4861 tgatttctca atgaaactta tgttccgcaa gccattccag aagcaggctt tgccattttt
+     4921 ctatcggata tccatttttt ccggatacac caaatccatg acctccctta tcaaaaaaat
+     4981 gagcttctgc atgatgtccc ttatcccgaa tagagttaaa atatctcaga gaatgaataa
+     5041 ctggaacatc cttatcatct gttgcatgca caataaagac tggtggcata tactctgtaa
+     5101 cactattttc aagactggct gaatattcac tttcacctgc atccagaaga cgtttccggc
+     5161 atccctgatg agcaatactc ctgtcaagag atataactgg atatatcaga gccatccagt
+     5221 caggacgcac agaagtctct tcctcataat ggagatgagt aatatatcca gcaagatgac
+     5281 cacctgccga aaaccccata catccaacac tcttaaatgt tctctccgac attccggccc
+     5341 agtaagaaat aaagttcagg gcattcttcg catctgcaaa ggaataataa ccattaacgg
+     5401 agggcattct gtaagaaaga ataaatgccg tatatccctg acctgctatc catctgccaa
+     5461 catcaagtcc ctctctttca taaacaatcc tcctgtatcc acctccaggt ataatcagca
+     5521 cactatgttg attagataca acaggctcaa caactgtaat aaggggcaca atacctgtat
+     5581 atattatgcc atcgccagta ttctcaaata gcgaactgtc agttatgtaa cgctcataat
+     5641 tatcaagaga atatatattc tccctgtaat gaatcatttt tttattccct gatagcatcc
+     5701 gttattcttc tgcaacattc ttttttcttg ctccataaaa aggttttcca tcgacagtat
+     5761 catattcaag cgcagcttct ggatggatcc atctctgtac acgtgatggc atatcaaaac
+     5821 caataaggac aagaacaaca aatgttaaga taaaagcaag agaacacatt gctgtaccaa
+     5881 gacttgtatg agacgcaaca actgcaccaa gaataggcgc acatgctcca ccaagtgaac
+     5941 ctacattata aataaacccc agtcctgccg cacgctgctc cacattaaaa taaccactga
+     6001 ttattttcgg caccagagca ccaatcccct gaccaaaaac ctgctgagta aagattagaa
+     6061 ggccaagtaa ccatacatag tcccggtcca caagaaaaac ggggataata acaagctgac
+     6121 cgataagaag tgatataaca tatgcttttc gggttccaag ccagtccccc ataaaaccac
+     6181 ctatacaact tccagctgca gagccaaaac ctgccagcat aaatatgaga gcaacagttt
+     6241 ctggtgaata ctgcatatca accttaagcc atgtaggaag aaaagcctgc agtggccatc
+     6301 cgtagaggaa acagaacata accacaagca tcaacataat gcctgttggc catcttttcc
+     6361 ccataccctg atatataaaa ctgataaaaa cagccgcaca gcacaatgcc ataactgtga
+     6421 ttaaagcagc gtttgcagtg acgcctgaaa aacaaacata tagacatgca aatgcaatac
+     6481 aagacagaag aatatttatg tatttattct tttctctgta cagaatatcc accattgttc
+     6541 tgacgggttt attctcttgt tgcctttttt gccagtcatc agactccgga agattcttgc
+     6601 gaagataaaa agcaaataat attggaagca tgccgacaaa gaaaagagaa cgccagcccc
+     6661 atagtggtac tacaatgcta taaacctgtg cagctaaacc tcccccaata gaaaatccag
+     6721 aaattaaaaa accacttgcc ttgtttctga gatgaacagg ccagctttcg ataacatatg
+     6781 ttacacttga gccatattca cctgccatac caagcccaat aacaatgcga gcaataaaca
+     6841 tcactgcata tccaggagcc agaccacagg caagggttcc gagagagaat agcactatac
+     6901 ttaaaaccat tgccatcctg cgccccatct tgtccgataa agcgccaata gcaagccccc
+     6961 caaaccatcg agaaataaaa gcagcggaaa taaggcttgc cgcttctatt gtcgtcaagc
+     7021 cgaattcatg ctgaacctct gtaagaacca gagatatcag aacgaaatca aaaccatcaa
+     7081 gtaaataacc tgtccatgcc gcaccgaata tcttccactg tctgggtgaa agatgcttat
+     7141 accaaacctg ctttttctga atacaggagt ccatattaaa cctcacaata atagcggatt
+     7201 tataatacac tggagtatta ctttaagtaa tacaatcccg gtcccaaaga gttgcaccaa
+     7261 taagaccaga gtcacttctg aaatatgccg gaaacagcat tacattacaa atttcagaat
+     7321 atatggaaag atgtttcgac actttctgaa catacccatc agcaagtcca acacttcctc
+     7381 cgacaacaac aacctgacaa tcaagcagta attttaaact tactattaat tcagcaatag
+     7441 tactggcaga acgctctgtc aaaaattctg cttccttata tccctgtctc gctaattcaa
+     7501 aaatatattt ggtgctatat cctgcaagtt tattttttgc tgcccccatg atggcccgac
+     7561 cagatgaaac cgcttcaacg catccccgac gaccacatcc acattctgta tccgttactc
+     7621 cggacaatat atgcccaaca tgtccggcta atccagaaac acctgttaat aattttctgt
+     7681 taactacaat tccccctcca acccccgtag aaacggttat aaaaaccata tcacaaattt
+     7741 ctttcggcaa aactgtatat tctgcccatg cggctgcctg ggcatcattt atcacacttc
+     7801 catttaaacc agttatatct tccattatat ttttcagagg atactctttc agccctccaa
+     7861 gattgtctgg attcagagct gtcaatactc cattattaat aatccctgtt gatgctactg
+     7921 caaatcgctc cgctgttccc ttcatttcag aaaccagtag acgtaaagcc cctgtcattt
+     7981 cgtcaggaca tctttcatga ggtgttgata tctgtttttt cagcaaaaat gaaccgtcat
+     8041 cagatatcaa cgccgctgaa attttcgttc ctcctatatc aacagccagt gttatcattc
+     8101 attttcacct atataacaat cttgcaatta ttcagattat tttcattttt ttgtttctgt
+     8161 catgttcttc gaacagtcgc tctgcaagtt ttgataatac atccagattc ttttccttta
+     8221 ccggagaaaa aggacttctg catacaggag tatttataat ccccatatag taaagaagag
+     8281 tttttatacc tgccaggaca ccactctgaa taagagtgtc aataacctgg ttacaggcta
+     8341 cttgcatttc cttcgcctta atcacatcat tgtttttgac tgcttcaaat atttcaagat
+     8401 aacgccaccc cattatatta tatgtactac cgattccccc atctgcacct gcaattaacc
+     8461 ctgatgcaaa tatttcatcg taaccattat ataacacaag ctctggatga ttccttttga
+     8521 tttgttccat ctggaataaa tcaccggatg tctgttttaa tgcacaaacc ctgggtattg
+     8581 tgacaagctc atttatctga tctaaagaaa aacgcactcc gctaagagcc ggtatattat
+     8641 aaactaccat cggaagtcca tctgcagaat caataatctt cctgtaatgg atacaatgct
+     8701 cttcaaatga aaaaggataa taaaatggag taacagcaga tatagcatga tatccgtatt
+     8761 tttttgcagc ttttgcaagt acctcgcttt ctgccgtact gattccgccc acatgcgcta
+     8821 taagtgtcag tcttccatct gattcatcgg ctactgtttc aagaattttt tctcgctctg
+     8881 caacattctg aagaaatgct tctccagtag agcctccaac atacaatccc ttaatatttt
+     8941 gttcgatatt aaaacggatc agttttcgaa gactctccat atcgatttgc tgggattggt
+     9001 cataaggagt gggtaatgct gatatgaccc ctttaaattc acattgcatt tttaatcacc
+     9061 ttcacttaac tgcataatgg gatacctagt acaccatcaa gtacaaagat tatccaacag
+     9121 aaaagaagca caatgtgaag attatcaaaa aaaaaccatc agaaagctgt catgccgctc
+     9181 agttaaggat cggttgatcg atccagtgtc cagttactat tctctgcgta accctctgcg
+     9241 actatcttgc cccggaactg attacccaca gccctgaaga gtccgacact gtcacgctac
+     9301 gcaaacggcg tcttcctctg gaaatgatgg cctggtgaat tatcagtatg gcccatgagc
+     9361 gtaaggaacc ttcaccagat tgtgaaccgg ctggacacat gctgccaggt agtcgcccct
+     9421 ttgtcgcgcc gtgatccatg cccagcaggg ccaggaagcg gggccgtacg ccacgtgttc
+     9481 acgtaaacag cgcagccctg acataacacc acgctgtatc cgctctggtg caatatgaac
+     9541 ctgctgacca tcgatggcgt gttctaacta acacaggaca cgccagaaca cgacataaag
+     9601 cttcactcgc cagatacatg gtaagcgtaa actgaccgcc gtatgtagcc attaagccag
+     9661 tattggtaac gtaggtgccc accttttcat caactagtgg acacctgtta tggaacagaa
+     9721 aatattatcc gcagaacccc gcagaacatt ttcaaatgag tttaaacttc aaatggttaa
+     9781 actggcttca caactaggag cctctgttgc ccgtattgcc agggaacacg atatcaatga
+     9841 taacctcctg ttcaaatggc tcaggctctg gcagaacgaa gggcgtatat cgcggcgtct
+     9901 tccggtaaca acctcttctg acgctggcgt tgaattatta cctgttgaga taacgcctga
+     9961 tgagcagaaa gagcctatgg cggctcttac tccgctttta tccactcctt cacaaagcac
+    10021 agtcagtgcc agttcctgta aagttgagtt ccgccacggt aacatgacgc tggaaaatcc
+    10081 ttcaccagag ctgctcacgg tgttgatccg tgaactgacc gggagggggc gatgatctcg
+    10141 ctcccatcag acactcgaat ctcgctggtt gccggcgtta ctgatatgcg taaatccttc
+    10201 aacggtctgg gtgaacaggt acaacatgtg ctggatgaga accccttctc cggtcacctg
+    10261 ttcatcttcc gtggccgacg gagtgacatg attaaaatcc tctgggctga tgctgatggt
+    10321 ctgtgcctgt tcaccaaacg cctggaggaa ggcctgttta tctggcctgc ggtgcgtgac
+    10381 ggtaaggtat ccattacccg ctcgcagctg gcaatgctcc tcgataagct ggactggcgt
+    10441 cagccaaaaa catcccgtct taacgcactg acaatgttgt aaaaatgtca tggccggatt
+    10501 ataaaaacgg tcatgagtcg gaaatacctc attcgtatca ctgagctgga aaggctgctc
+    10561 tctgagcagg ctgaagccct ccgtcagaga gatctgcaac tgagtctggt tgaagagacg
+    10621 gaggccttcc tgcgctctgc actggcacgt gccgaagaaa agatcgaaga ggaggagcgg
+    10681 gaaatagaat atctgagggc ccagatagaa aaactgcgcc ggatgctgtt cggtacccgt
+    10741 tctgaaaaac tgcagcgtga ggttgaacag gctgaggccc aactgaaaca acgcgaacag
+    10801 gaaagcgatc gttacagtgg gcgtgaggat gacccgcagg ttccccgcca gttgcgacag
+    10861 tcacgtcatc gtcgtccgtt accagcacat cttccccgtg aaatacaccg cctggagcct
+    10921 gaagaaagtt gttgcccgga gtgtggcagt gagctggatt atctgggtga agtcagtgct
+    10981 gagcagctgg aactggtgag tagcgccctg aaagtgatcc gcactgttcg ggtaaaaaaa
+    11041 gcctgtacaa aatgtgactg tatagttgaa gcgccagcgc cgtcccgccc gatagcgcgc
+    11101 ggcatcgcgg gctccggatt acttgcccgc gtgttaacgg gaaaatactg cgaacacctg
+    11161 ccactgtatc gtcagagtga aatctttgcc cgacagggtg ccgaactgag ccgtgcatta
+    11221 atctccaact gggttgacgc gtgctgccag ttaatgactc cgctaaatga tgccctgtac
+    11281 cgttacgtga tgaacacccg caaggttcac actgacgaca caccggtaaa agtgctgaca
+    11341 ccgggcagaa aaaaggcaaa aacaggacac atctggacgt atgtccggga tgaccggaat
+    11401 gcgggctcat cagagccacc ggcggtctgg ttcgcctact caccagacag gcagggaaaa
+    11461 catccggtac aacaccttcg tcccttccgg ggtatcctgc aggcggatgc attcagcggt
+    11521 tacgatcggc tgttcagtgc caaacgtgaa ggtggtgcac agacagaagt tgcgtgctgg
+    11581 gtccatgccc ggcgaaaaat acacgatgta tgaacgacat ctcttctgac gacattttcc
+    11641 tgctgaaaca gcgcctggcc gaacaggaag cgctgatcca cgccctgcag gaaaagctga
+    11701 gcaaccggga gcgcgaaata gaccatctgc aggcg
+//

@@ -1,0 +1,64 @@
+LOCUS       CAPM01000102             807 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            119, whole genome shotgun sequence.
+ACCESSION   CAPM01000102 CAPM01000000
+VERSION     CAPM01000102.1  GI:441712316
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..807
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 119"
+     CDS             complement(230..451)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Uncharacterized protein YeeT"
+                     /protein_id="CCQ07348.1"
+                     /db_xref="GI:441712317"
+                     /translation="MKIITRGEAMRIHQQHPTSRLFPFCTGKYRWHGSAEAYTGREVQ
+                     DIPGVLAVFAERRKDSFGPYVRLMSVTLN"
+     misc_feature    complement(254..451)
+                     /note="Protein of unknown function (DUF987); Region:
+                     DUF987; pfam06174"
+                     /db_xref="CDD:114867"
+     CDS             complement(520..726)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Putative radC-like protein yeeS"
+                     /protein_id="CCQ07349.1"
+                     /db_xref="GI:441712318"
+                     /translation="MIKCALYHNAAAVVLAHNHPSGEVTPSKADRLITERLVQALGLV
+                     DIRVPDHLIVGGSQVFSFAEHGLL"
+     misc_feature    complement(538..>672)
+                     /note="Mov34/MPN/PAD-1 family; Region: MPN_DUF2466;
+                     cd08071"
+                     /db_xref="CDD:163702"
+     misc_feature    complement(order(637..639,646..648,670..672))
+                     /note="MPN+ (JAMM) motif; other site"
+                     /db_xref="CDD:163702"
+     misc_feature    complement(order(637..639,670..672))
+                     /note="Zinc-binding site [ion binding]; other site"
+                     /db_xref="CDD:163702"
+ORIGIN      
+        1 gcctctgata ccggcacggt cggcaaggta atgcaaccgg ttaccctcct gcaccagacg
+       61 ggcgccgaaa cagggcgtca cggtgcaggg tagcccccac caggggcggt cgtgattgtc
+      121 gtcgggaagt gttgtcccgg ggagtgtgtc tgacacgata aaatccctac agaaaatcgg
+      181 ttaagaatgg tccggtggtg gcgataattc tgctcatcag aattcccact cagttcaggg
+      241 tgacgctcat cagtcggaca tacgggccaa aactgtcctt acggcgttca gcaaacacgg
+      301 ccagcacacc gggaatatcc tgcacttcac gaccggtata cgcttcagca ctgccgtgcc
+      361 agcggtattt accggtacag aacggaaaaa gacgggatgt cggatgttgt tggtgaatac
+      421 gcatggcttc accacgggtg ataattttca taataggata cctttgaaga cagaagataa
+      481 aagtgaaaac aggtgtgatg tgattgtggc ggtgacgggt taaagcaggc cgtgttccgc
+      541 aaaggagaaa acctggctgc caccgactat cagatggtcc ggcacccgga tatccaccag
+      601 gcccagtgcc tgtaccagac gttcggtgat aagccggtct gccttactgg gtgtgacttc
+      661 accggacggg tgattgtgtg ccagcaccac ggctgcggca ttgtgataca gggcgcattt
+      721 aatcacttcc cggggatgga cttccgtgcg gttgatggtg ccggtgaaga gggtttcacc
+      781 ggcaatcagc tgattctggt tattcag
+//

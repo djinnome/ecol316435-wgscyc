@@ -1,0 +1,98 @@
+LOCUS       CAPM01000093            2408 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            121, whole genome shotgun sequence.
+ACCESSION   CAPM01000093 CAPM01000000
+VERSION     CAPM01000093.1  GI:441712931
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..2408
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 121"
+     CDS             complement(249..659)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00639949: hypothetical protein"
+                     /protein_id="CCQ06810.1"
+                     /db_xref="GI:441712932"
+                     /translation="MKTFIKTLLVAVTILFSVFATAKQVKLPNNIKYVNTTEAFSCTE
+                     IDGMNCQTKNPFNYKDNSYVFVLERGGAWCYDYTVSVLNLKTGKAQMLEYKDNQLCSG
+                     SNKPFFEIKNGVPTVGVIDTSGKPVVVALDKLKT"
+     CDS             complement(675..1352)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00639173: hypothetical protein"
+                     /protein_id="CCQ06811.1"
+                     /db_xref="GI:441712933"
+                     /translation="MQLPVKLLMSLISLVSVIARAGKYKNYIRDEIKYWRYTSYKGGE
+                     FPEGFTDEKFSSAIYNGRIFTMKRLHTLMLFLAVLFTGFNVEAASVKQALSCDPNARA
+                     EQPGACPTTYELYEGDAAYKAALDKALKPVGLSGMFGKGGYMDGPGGNVTPVTINGTV
+                     WLQGDGCKANTCGWDFIVTLYNPKTHEVVGYRYFGLDDPAYLVWFGEIGVHEFAYLVK
+                     NYVAAVN"
+     CDS             complement(1488..2333)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Ferredoxin reductase"
+                     /protein_id="CCQ06812.1"
+                     /db_xref="GI:441712934"
+                     /translation="MLSVNRLVYFSLLKKLFQAMNLCQIPGRAGALLTTLLRHISILN
+                     GFDNLMAQPLLSDEPLTALLDHYLDTDALADGLPLYVSLYPTEGGMQDIIDCIRAELG
+                     AGTTKNAVFQHIQSLPRGQQKEALLASAALPLLFRPREVQGTMFGDGGMGGWRNMQGN
+                     TPVTPLVDAGCNMVIVTHLSDGSLWDRQAFPDTTILEIRPRKRLKYAGDGDNSGGLLS
+                     FTLAHTDAWRQQGYEDTMLTMEHIRKPLAARQVLSRSETVLQKSLEITEEADLALRNA
+                     MARIK"
+     misc_feature    complement(1626..>2123)
+                     /note="Hypothetical patatin similar to Z1214 protein of
+                     Escherichia coli; Region: Pat_hypo_Ecoli_Z1214_like;
+                     cd07209"
+                     /db_xref="CDD:132848"
+ORIGIN      
+        1 cataaccaaa acgacttgct aatcgcatac tttgctcctt atcggtggtt aagatttact
+       61 ggtgtaataa atgaaaaaag ccacgtctcc cggagaagac gcggcctgac gggtgaaatg
+      121 aatgaggttt attgtctgag aagcctttca ctggcgagcc acgcattaag cggctttccg
+      181 gcaacaatgg ctggggctgt atttaccttt gatattaata atgtgcagag aaacgcatgg
+      241 tttactcctc aggttttaag tttgtccaga gccacaacga caggttttcc ggatgtgtcg
+      301 atgactccta ccgtcggtac gccatttttg atttcgaaga acggtttgtt gctacctgag
+      361 cacagctggt tgtctttgta ttcgagcatc tgtgctttcc cggttttcag gttaagtacc
+      421 gagacagtgt agtcgtaaca ccaggcacca ccacgttcaa gcacgaaaac atagctgtta
+      481 tctttatagt taaacggatt cttcgtctgg caattcatac cgtcaatctc agtacaggaa
+      541 aacgcctctg tagtattaac gtatttgatg ttgtttggca gttttacttg tttcgccgta
+      601 gcgaagacag agaacagaat agttacagca acgagtaaag ttttgataaa agttttcatg
+      661 acagactcct taaattagtt aaccgcagct acgtagtttt tcaccagata cgcgaattca
+      721 tgcacgccaa tttcgccgaa ccaaaccagg taggccgggt catctaaacc aaagtagcgg
+      781 tagccaacga cttcatgggt ttttgggtta tagagtgtta cgataaagtc ccagccgcag
+      841 gtattggctt tgcaaccgtc gccctggagc cagactgtac cgttaatggt tactggcgtt
+      901 acgtttccgc cagggccatc catatacccg cctttaccga acatgccgct cagtccgacc
+      961 ggttttaatg ctttgtcaag cgcagctttg taggcagcgt caccttcgta caactcgtac
+     1021 gttgttggac acgctccagg ttgttcagcc cgggcgtttg ggtcgcagct gagcgcttgt
+     1081 ttcacgctcg ctgcttccac gttaaagcca gtaaacagaa ccgccagaaa taacatcagg
+     1141 gtatgtaaac gtttcattgt aaatattctt ccgttgtaaa tggcgctgga aaatttctca
+     1201 tcagtgaaac cttccggaaa ttcccccccc ttgtatgatg tatatcgcca gtattttatt
+     1261 tcatcccgga tgtaattttt atatttcccg gcacgtgcaa taacgctgac cagagatata
+     1321 aggctcatta ataactttac aggtaattgc ataattaaat ttccagtgag tgaattgaca
+     1381 ggtgaggggt aaaactttct ctcaggtaat atatatctga aaatattttc aataacacca
+     1441 gccaggaaaa acaccaccac aggcggtggc gtttctttgg ggcgtcttta tttaatccgg
+     1501 gccatcgcgt ttctcagtgc caaatctgcc tcttccgtta tctccagact tttctgcaac
+     1561 accgtttctg accgggacag tacctgacgt gctgccagcg gtttccggat atgctccatc
+     1621 gtcagcatcg tgtcttcata gccctgctga cgccaggcgt cggtatgtgc caacgtgaaa
+     1681 ctgagcagac cgccgctgtt gtcaccatca cctgcatatt tcagcctttt ccggggacgg
+     1741 atctcaagga ttgtggtgtc cggaaaagcc tggcgatccc ataaagaacc gtcactcaga
+     1801 tgcgtcacaa tcaccatatt gcatccggca tcgaccagag gcgtcacagg ggtatttccc
+     1861 tgcatatttc gccatcctcc cataccacca tcaccgaaca ttgtcccctg aacctcacgg
+     1921 ggacggaaca gcaggggcag cgcggctgac gcaagcagag cctctttctg ctgtccgcgg
+     1981 ggcaggctct ggatatgctg aaaaacggcg tttttcgtgg ttccggcacc cagttcagca
+     2041 cgaatgcagt caataatatc ctgcatgccc ccttctgtgg ggtacagcga cacatacagc
+     2101 ggtagcccgt ctgccagagc atcagtatca agataatgat ccaacagcgc tgtcaggggc
+     2161 tcatctgaca acaacggctg agccatcaga ttgtcaaacc cgttgagtat cgatatatgg
+     2221 cgaagaagcg tcgtaagcag tgctcctgca cgtccgggga tctggcagag gttcattgcc
+     2281 tggaacaatt ttttcagcaa tgaaaagtaa accaatcggt ttaccgacag cacctgatta
+     2341 ttccccagat gatcccagag cgcctccagg cgtacggcag cttctgacag atcgggagag
+     2401 gccgcgat
+//

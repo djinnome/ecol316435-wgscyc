@@ -1,0 +1,42 @@
+LOCUS       CAPM01000103             392 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            111, whole genome shotgun sequence.
+ACCESSION   CAPM01000103 CAPM01000000
+VERSION     CAPM01000103.1  GI:441712313
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..392
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 111"
+     CDS             16..360
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ07350.1"
+                     /db_xref="GI:441712314"
+                     /translation="MLNKGLESLAEGEKPLLHSDQGWHYRIKSYQSALADRGLVQSMS
+                     RKGNCLDNAVMENFFGHLKEEMYYRRDYRNVEELENAVNEYITYWNQKRIKLSLGGLS
+                     PVEYRTEYQKAG"
+     misc_feature    <49..213
+                     /note="Integrase core domain; Region: rve; pfam00665"
+                     /db_xref="CDD:216050"
+     misc_feature    181..345
+                     /note="Integrase core domain; Region: rve_2; pfam13333"
+                     /db_xref="CDD:205513"
+ORIGIN      
+        1 gagctggtga agcggatgtt aaataagggt ctggaaagcc ttgctgaagg ggagaaaccg
+       61 ctgctccaca gtgatcaagg atggcattac cggataaaaa gttatcagtc cgccctggcg
+      121 gacagagggt tagtgcagag catgtcgcgc aagggcaact gccttgataa tgcggtaatg
+      181 gagaacttct ttggtcacct gaaagaagaa atgtactatc gccgggacta cagaaatgta
+      241 gaagagctgg aaaatgccgt taacgaatac ataacttact ggaatcaaaa aagaataaaa
+      301 ctcagtcttg ggggactcag cccggtagaa taccggactg agtatcaaaa agccggttaa
+      361 ctgaaactgt ccaggttttg gggttcagtt ca
+//

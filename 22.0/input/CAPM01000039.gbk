@@ -1,0 +1,82 @@
+LOCUS       CAPM01000039            1825 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            105, whole genome shotgun sequence.
+ACCESSION   CAPM01000039 CAPM01000000
+VERSION     CAPM01000039.1  GI:441715474
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1825
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 105"
+     CDS             complement(203..1690)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Antigen 43 precursor"
+                     /protein_id="CCQ04615.1"
+                     /db_xref="GI:441715475"
+                     /translation="MLNGAIDPTNVTLTSGATWNIPDNATVQSVVDDLSHAGQIHFTS
+                     ARTGKFVPTTLQVKNLNGQNGTISLRVRPDMAQNNADRLVIDGGRATGKTILNLVNAG
+                     NSGTGLATTGKGIQVVEAINGATTEEGAFVQGNMLQAGAFNYTLNRDSDESWYLRSEN
+                     AYRAEVPLYASMLTQAMDYDRILAGSRSHQTGVNGENNSVRLSIQGGHLGHDNNGGIV
+                     RGATPESSGSYGFVRLEGDLLRTEVAGMSLTTGVYGAAGHSSVDVKDDDGSRAGTVRD
+                     DAGSLGGYLNLVHTSSGLWADIVAQGTRHSMKASSDNNDFRARGRGWQGSLETGLPFS
+                     ITDNLMLEPQLQYTWQGLSLDDGQDNAGYVKFGHGSAQHVRAGFRLGSHNDMTFGEGT
+                     SSRDTLRDSTKHGVSELPVNWWVQPSVIRTFSSRGDMSMGTAAAGSNMTFSPSRNGTS
+                     LDLQAGLEARVRENITLGVQAGYAHSVSGNSAEGYNGQATLNVTF"
+     misc_feature    complement(1202..1687)
+                     /note="Pertactin-like passenger domains (virulence
+                     factors), C-terminal, subgroup 2, of autotransporter
+                     proteins of the type V secretion system of Gram-negative
+                     bacteria. This subgroup includes the passenger domains of
+                     the nonprotease autotransporters, Ag43; Region:
+                     PL2_Passenger_AT; cd01344"
+                     /db_xref="CDD:238654"
+     misc_feature    complement(206..1531)
+                     /note="outer membrane autotransporter barrel domain;
+                     Region: autotrans_barl; TIGR01414"
+                     /db_xref="CDD:233402"
+     misc_feature    complement(248..1087)
+                     /note="Autotransporter beta-domain; Region:
+                     Autotransporter; smart00869"
+                     /db_xref="CDD:214872"
+ORIGIN      
+        1 cttcatggtt tccacagcgc cggcatactg atcacggggg acttccagtt gcatgggacc
+       61 atgatttccc atgtaacgat actgtccgtt ctgtccgtcg aatgccgcac tgttaatgcc
+      121 agcgaatgtg gcgttgaata tccgttgcgc cggtccgggt cccgatcatg atgatcggga
+      181 ccacaaagag gcgatggttc tgtcagaagg tcacattcag cgtggcctga ccgttatagc
+      241 cttcagcgct gttgccgctg acactgtggg cataaccggc ctgaacgccc agggtgatat
+      301 tttcccggac acgggcttcc agtccggcct gcaggtccag tgacgtgcca ttccgggacg
+      361 gtgagaacgt catgttactg ccggctgcgg ctgtacccat gctcatgtct ccccgggagc
+      421 tgaaggtgcg gataacagaa ggctgtaccc accagttcac aggcagttca ctcacaccgt
+      481 gttttgtact gtcgcgcagg gtgtcacggg atgaggtgcc ttcaccaaag gtcatatcgt
+      541 tgtggctgcc cagacggaaa ccggcacgca catgttgtgc actgccatgc ccgaacttca
+      601 cataaccggc gttatcctgg ccgtcatcca gggaaagtcc ctgccaggta tactgcagtt
+      661 gtggctccag catcaggttg tcagtgatac tgaatggcag accggtttcc agtgagccct
+      721 gccagccccg gccccgggcg cggaagtcgt tattgtccga tgacgctttc atgctgtggc
+      781 gggttccctg tgccacaatg tcagcccaca ggccggagga cgtgtgtacc agattcaggt
+      841 atccgcccag gctgccggca tcatcccgga ccgtgccggc acgggagccg tcatcatcct
+      901 taacatcaac ggaagaatgg cctgcagcac catacactcc tgtcgtcagt gacataccgg
+      961 caacctctgt tctgagcagg tcaccctcca gacggacgaa gccatagctg ccgctgcttt
+     1021 ccggcgtggc accacggaca ataccgccgt tgttatcgtg accgagatgg ccgccctgaa
+     1081 tgctgagacg gacgctgtta ttttcaccgt ttacaccggt ctgatggctg cgggagcctg
+     1141 ccagaatccg gtcatagtcc attgcctgtg tcagcatgga ggcatacagg gggacttcag
+     1201 cacgataagc attttcactg cgcagatacc agctctcatc actgtcccgg ttgagggtgt
+     1261 agttaaaggc cccggcctgc aacatattcc cctggacaaa agccccttcc tccgtggtgg
+     1321 caccgttaat ggcctcaacc acctgaatac ccttaccggt ggtcgccagc cccgtaccac
+     1381 tgttgccggc gttcaccaga ttcaggatgg tttttccggt tgccctgcca ccgtcaatga
+     1441 ccagtctgtc agcattgttc tgcgccatat ccgggcgtac acgcaggctg atggtgccat
+     1501 tctgcccgtt caggtttttc acctgcagag ttgtcggaac gaacttccct gtgcgggcgg
+     1561 aggtgaaatg aatctgtccg gcatggctga ggtcatccac caccgactga accgtggcgt
+     1621 tatcggggat attccaggtg gcaccggatg tcagggtgac attcgtgggg tcaatggcac
+     1681 cgttcagcac tgtgctgccg gtcagcttca gggctgtacc gcgctgagca atgacatccg
+     1741 tggtgacggt actgtcgttc agcgtcagcg tgccttcatt caggttgacg gctttctggg
+     1801 tgagtgtggt gttgctgaca gtgag
+//

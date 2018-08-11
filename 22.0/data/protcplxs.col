@@ -1,0 +1,22 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Tim Holland
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Escherichia coli Nissle 1917
+# Database: Escherichia coli Nissle 1917, whole genome shotgun sequencing project.
+# Version: 21.5
+# File Name: protcplxs.col
+# Date and time generated: October 24, 2017, 16:33:18
+#
+#		1	1
+UNIQUE-ID	NAME	GENE-NAME	GENE-ID	SUBUNIT-COMPOSITION

@@ -1,0 +1,80 @@
+LOCUS       CAPM01000048            1250 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            6, whole genome shotgun sequence.
+ACCESSION   CAPM01000048 CAPM01000000
+VERSION     CAPM01000048.1  GI:441715270
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1250
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 6"
+     CDS             complement(31..849)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ04785.1"
+                     /db_xref="GI:441715271"
+                     /translation="MATLCHVFGVHRSSYKYWKNRPEKPDGRRAVLRSQVLELHGISH
+                     GSAGARSIATMATQRGYQMGRWLAGRLMKELGLVSCQQPTYRYKRGGHEHVAIPNYLE
+                     RQFAVTEPNQVWCGDVTYIWTGKRWAYLAVVLDLFARKPVGWAMSFSPDSRLTMKALE
+                     MAWETRGKPVGVMFHSDQGSHYTSRQFRQLLWRYRIRQSMSRRGNCWDNSPMERFFRS
+                     LKNEWVPATGYVSFSDAAHAITDYIVGYYSALRPHEYNGGLPPNESENRYWKKL"
+     misc_feature    complement(34..828)
+                     /note="putative transposase OrfB; Reviewed; Region:
+                     PHA02517"
+                     /db_xref="CDD:222853"
+     misc_feature    complement(583..768)
+                     /note="HTH-like domain; Region: HTH_21; pfam13276"
+                     /db_xref="CDD:222019"
+     misc_feature    complement(181..522)
+                     /note="Integrase core domain; Region: rve; pfam00665"
+                     /db_xref="CDD:216050"
+     misc_feature    complement(67..270)
+                     /note="Integrase core domain; Region: rve_3; pfam13683"
+                     /db_xref="CDD:222316"
+     CDS             complement(876..1178)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ04786.1"
+                     /db_xref="GI:441715272"
+                     /translation="MKKRNFSAEFKRESAQLVVDQNYTVADAASAMDVGLSTMTRWVK
+                     QLRDERQGKTPKASPITPEQIEIRELRKKLQRIEMENEILKKATALLMSDSLNSSR"
+     misc_feature    complement(885..1178)
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG2963"
+                     /db_xref="CDD:225511"
+     misc_feature    complement(951..1175)
+                     /note="Transposase; Region: HTH_Tnp_1; cl17663"
+                     /db_xref="CDD:248217"
+ORIGIN      
+        1 tgaagtggtc aacaaaaact ggccaccgag ttagagtttt ttccagtatc gattttccga
+       61 ttcgtttggt ggtaacccac cattatattc gtgcggtctt agtgcgctgt aatatccaac
+      121 gatatagtcc gttattgcgt gagctgcatc gctgaagctt acatagcccg tcgccggcac
+      181 ccattcgttc ttcagactcc tgaagaagcg ctccattggg ctgttatccc agcagtttcc
+      241 acgccgactc atactctgcc tgatccggta tctccacagt aactgccgga actgcctgct
+      301 cgtataatga ctgccttgat cgctgtggaa catcaccccg acgggcttac cacgggtttc
+      361 ccatgccatt tccagtgctt tcatggtaag cctgctgtcc ggcgagaacg acatggccca
+      421 gcccactggt tttcttgcga acaggtcgag aacaacggcg aggtacgccc agcgcttacc
+      481 cgtccagata taggtcacat caccgcacca cacctgattt ggctcggtca cggcgaactg
+      541 ccgttcaagg tagttaggga tagcaacatg ttcatgacca ccacgtttat accggtaagt
+      601 cggctgctga cagctgacca gccccagctc tttcatgagt ctgccagcaa gccagcgccc
+      661 catctggtag cctctctggg ttgccattgt ggcgatgctt cttgctccgg cagagccgtg
+      721 gctgatgcca tgcagttcaa gtacctggct gcgtaataca gcccgtctgc cgtctggctt
+      781 ttcaggacgg tttttccagt atttgtagct gctgcgatgg accccgaaca catggcagag
+      841 agtggccaca ggataacgcg ccctgagttt cccgattatc gagaactgtt cagggagtct
+      901 gacatcaaga gcgcggtagc cttttttaat atttcatttt ccatttcaat acgttgtagc
+      961 tttttcctga gctcacggat ttcaatttgt tccggggtaa taggggaggc ttttggtgtt
+     1021 tttccctgcc gctcatcacg taattgtttc acccatcgcg tcattgtgga aaggccgaca
+     1081 tccatagcgc tggctgcatc tgccacggtg taattctggt caacgaccag ttgagcggat
+     1141 tcgcgtttaa actctgcgct gaaatttctt tttttcatta tggcacctgt gttgttctga
+     1201 ggtgagcata tcacctctgt tcaggtggcc aaattcagta aaccacttca
+//

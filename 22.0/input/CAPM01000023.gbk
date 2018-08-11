@@ -1,0 +1,72 @@
+LOCUS       CAPM01000023            1248 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            55, whole genome shotgun sequence.
+ACCESSION   CAPM01000023 CAPM01000000
+VERSION     CAPM01000023.1  GI:441715769
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1248
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 55"
+     CDS             complement(560..1243)
+                     /EC_number="2.7.7.24"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Glucose-1-phosphate thymidylyltransferase"
+                     /protein_id="CCQ04373.1"
+                     /db_xref="GI:441715770"
+                     /translation="MPFLLDANLSATNPPAIPHWWKRQPLIPTLLSQELKNFLKLNVK
+                     EKNIQIADQVIIDESAGEVVIGANTRICHGAVIQGPVVIGANCLIGNYAFIRPGTIIS
+                     NGVKIGFATEIKNAVIEAEATIGPQCFIADSVVANQAYLGAQVRTSNHRLDEQPVSVR
+                     TPDGIIATGCDKLGCYIGQRSRLGVQVIILPGRIISPNTQLGPRVIVERNLPTGTYSL
+                     RQELIRTGD"
+     misc_feature    complement(620..1096)
+                     /note="Left-handed parallel beta-Helix (LbetaH or LbH)
+                     domain: The alignment contains 5 turns, each containing
+                     three imperfect tandem repeats of a hexapeptide repeat
+                     motif (X-[STAV]-X-[LIV]-[GAED]-X). Proteins containing
+                     hexapeptide repeats are often enzymes...; Region: LbetaH;
+                     cl00160"
+                     /db_xref="CDD:193687"
+     misc_feature    complement(order(620..622,626..628,632..634,644..646,
+                     674..676,680..685,698..700,800..802,806..808,824..826,
+                     851..853,857..859,869..871,875..877))
+                     /note="putative trimer interface [polypeptide binding];
+                     other site"
+                     /db_xref="CDD:100038"
+     misc_feature    complement(order(620..622,638..640,674..676,689..694,
+                     698..700))
+                     /note="putative CoA binding site [chemical binding]; other
+                     site"
+                     /db_xref="CDD:100038"
+ORIGIN      
+        1 gtaaccagtg ccgcgcgggt cattcagacg cacggaaatc atattgctgt aactaccacc
+       61 tgcatcgctg gagtcatagt gggtatagcg atagctggtg atcaccgggc cagtatagag
+      121 tgatatgccg ccttgccagg catcgacttc gacatcatcg taatatttag tgtagcgata
+      181 accggtcgtg aaaagcgttt ttggcaacag ggccaggcta atatcctgac gaaaatcctg
+      241 gcaggcaaag accggcgtat tatccgcaaa ggcaatactc gttcgggttg tcagccagtt
+      301 attccatttg taccagactg caccctggcc gcgagtggca ttgaaatgtt cagtttcata
+      361 atcacgacgc ccctgggaaa gattaaaaag cagcgttgcg ttttcaactt tcgccaccag
+      421 ttcagcatac gctaaattac ggttgccatg atcgccagaa taatcggtaa aatcgtagcc
+      481 cgcggtaatg gaagttaacc cggcataaac gggtaatgcg ctaaaaattg ccgccgctaa
+      541 taacgtccgt tttatcattt taatctcctg tacggataag ttcttgtcgg agtgaataag
+      601 ttccggtagg taaattacgt tctacaatca cgcgcgggcc aagttgcgtg ttcggggaaa
+      661 taattcgccc aggcaaaata ataacttgta cgccaaggcg tgaacgctgc ccgatataac
+      721 aacctaattt atcgcatccg gtagcgataa ttccatctgg agttcgaaca gacacgggct
+      781 gttcatccag acgatgatta ctggttcgta cttgtgcgcc caaatatgcc tggtttgcaa
+      841 ctaccgagtc ggcaataaag cattgcggac caatcgttgc ttccgcttca ataaccgcat
+      901 ttttaatttc ggtggcaaaa ccaattttta cgccattgct gattattgtg ccaggacgaa
+      961 taaacgcata attacctatc aggcagtttg cgccaatcac taccggaccc tgaataacgg
+     1021 caccgtggca aatacgggta ttcgcgccga taacaacctc accggcactt tcatcaataa
+     1081 tcacctggtc tgcaatctga atatttttct ctttaacatt aagcttcaga aagtttttca
+     1141 gttcctgtga cagaagggtg ggaataagcg gttgacgctt ccaccagtgc ggaatagcgg
+     1201 gtgggtttgt cgcgctgagg ttcgcgtcca gtaaaaaagg caataagt
+//

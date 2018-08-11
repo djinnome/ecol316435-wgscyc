@@ -1,0 +1,43 @@
+LOCUS       CAPM01000008             578 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            66, whole genome shotgun sequence.
+ACCESSION   CAPM01000008 CAPM01000000
+VERSION     CAPM01000008.1  GI:441715933
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 66"
+     CDS             complement(67..540)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Antirestriction protein klcA"
+                     /protein_id="CCQ04252.1"
+                     /db_xref="GI:441715934"
+                     /translation="MKTLSQNTTSSACAPETGLQQLVATIVPDEQRISFWPQHFGLIP
+                     QWVTLEPRVFGWMDRLCENYCGGIWNLYTLNNGGAFMAPEPDDDDDETWVLFNAMNGN
+                     RAEMSPEAAGIAACLMTYSHHACRTECYAMTVHYYRLRDYALQHPECSAIMRIID"
+     misc_feature    complement(70..363)
+                     /note="Antirestriction protein; Region: Antirestrict;
+                     pfam03230"
+                     /db_xref="CDD:190572"
+ORIGIN      
+        1 gctgcgctct ctggttgtca tttctccggg cagaaaggaa agctgctgca ttgtccctgc
+       61 ctccattcag tcgatgatgc gcataatggc gctgcattcc ggatgctgca gggcgtaatc
+      121 ccgcagacgg taataatgaa ccgtcatggc ataacactcc gtacggcagg cgtgatgact
+      181 gtacgtcatc agacaggcgg caatgccggc ggcttccggg ctcatttcag cgcggttacc
+      241 gttcatggca ttgaacagta cccatgtttc gtcatcatcg tcatccggtt caggggccat
+      301 aaatgccccg ccgttgttca gggtgtacag attccagata ccaccgcagt agttttcgca
+      361 cagacggtcc atccagccga agacacgggg ctccagggtc acccactgtg gaatgaggcc
+      421 aaaatgctgc ggccagaagc tgatgcgctg ttcatcaggg actatggtgg caaccagttg
+      481 ttgcaggcca gtctccggtg cacaggccga agaggtggtg ttctgagaca atgttttcat
+      541 gtatgaaatc cttgtaatgt gaataaatga gagggagt
+//

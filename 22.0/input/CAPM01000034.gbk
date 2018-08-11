@@ -1,0 +1,65 @@
+LOCUS       CAPM01000034             768 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            5, whole genome shotgun sequence.
+ACCESSION   CAPM01000034 CAPM01000000
+VERSION     CAPM01000034.1  GI:441715536
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..768
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 5"
+     CDS             104..331
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS1 ORF1"
+                     /protein_id="CCQ04566.1"
+                     /db_xref="GI:441715537"
+                     /translation="MVRNGKSTAGHQRYLCSHCRKTWQLQFTYTASQPGTHQKIIDMA
+                     MNGVGCRATARIMGVGLNTILRHLKNSGRSR"
+     misc_feature    <104..328
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG3677"
+                     /db_xref="CDD:226202"
+     misc_feature    <104..163
+                     /note="InsA N-terminal domain; Region: Zn_Tnp_IS1;
+                     pfam03811"
+                     /db_xref="CDD:190760"
+     misc_feature    170..319
+                     /note="InsA C-terminal domain; Region: HTH_Tnp_IS1;
+                     pfam12759"
+                     /db_xref="CDD:193235"
+     CDS             376..753
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ04567.1"
+                     /db_xref="GI:441715538"
+                     /translation="MGEQWGYVGAKSRQRWLFYAYDRLRKTVVAHVFGERTMATLGRL
+                     MSLLSPFDVVIWMTDGWPLYESRLKGKLHVISKRYTQRIERHNLNLRQHLARLGRKSL
+                     SFSKSVELHDKVIGHYLNIKHYQ"
+     misc_feature    376..750
+                     /note="IS1 transposase; Region: DDE_Tnp_IS1; cl00721"
+                     /db_xref="CDD:242048"
+ORIGIN      
+        1 ggtgatgctg ccaacttact gatttagtgt atgatggtgt ttttgaggtg ctccagtggc
+       61 ttctgtttct atcagctgtc cctcctgttc agctactgac ggggtggtgc gtaacggcaa
+      121 aagcaccgcc ggacatcagc gctatctctg ctctcactgc cgtaaaacat ggcaactgca
+      181 gttcacttac accgcttctc aacccggtac gcaccagaaa atcattgata tggccatgaa
+      241 tggcgttgga tgccgggcaa cagcccgcat tatgggcgtt ggcctcaaca cgattttacg
+      301 tcacttaaaa aactcaggcc gcagtcggta acctcgcgca tacagccggg cagtgacgtc
+      361 atcgtctgcg cggaaatggg cgaacagtgg ggctatgtcg gggctaaatc gcgccagcgc
+      421 tggctgtttt acgcgtatga caggctccgg aagacggttg ttgcgcacgt attcggtgaa
+      481 cgcacgatgg cgacgctggg gcgtcttatg agcctgctgt caccctttga cgtggtgata
+      541 tggatgacgg atggctggcc gctgtatgaa tcccgcctga agggaaagct gcacgtaatc
+      601 agcaagcgat atacgcagcg aattgagcgg cataacctga atctgaggca gcacctggca
+      661 cggctgggac ggaagtcgct gtcgttctca aaatcggtgg agctgcatga caaagtcatc
+      721 gggcattatc tgaacataaa acactatcaa taagttggag tcattacc
+//

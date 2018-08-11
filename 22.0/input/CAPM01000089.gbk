@@ -1,0 +1,48 @@
+LOCUS       CAPM01000089             689 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            75, whole genome shotgun sequence.
+ACCESSION   CAPM01000089 CAPM01000000
+VERSION     CAPM01000089.1  GI:441713059
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..689
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 75"
+     CDS             94..459
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Mobile element protein"
+                     /protein_id="CCQ06703.1"
+                     /db_xref="GI:441713060"
+                     /translation="MIDVLGPEKRRRRTTQEKIAIVQQSFEPGMTVSLVARQHGVAAS
+                     QLFLWRKQYQEGSLTAVAAGEQVVPASELAAAMKQIKELQRLLGKKTMENELLKEAVE
+                     YGRAKKWIAHAPLLPGDGE"
+     misc_feature    94..456
+                     /note="IS2 repressor TnpA; Reviewed; Region: PRK09413"
+                     /db_xref="CDD:181833"
+     misc_feature    109..435
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG2963"
+                     /db_xref="CDD:225511"
+ORIGIN      
+        1 gttagactgg ccccctgaat ctccagacaa ccaatatcac ttaaataagt gatagtctta
+       61 atactagttt ttagactagt cattggagaa cagatgattg atgtcttagg gccggagaaa
+      121 cgcagacggc gtactacaca ggaaaagatc gctatcgttc agcagagctt tgaaccggga
+      181 atgacggtct cccttgttgc ccggcaacat ggtgtggcag ccagccagct atttctctgg
+      241 cgtaagcaat accaggaggg aagtcttact gctgtggctg ccggagaaca ggtcgttcct
+      301 gcctctgaac ttgctgccgc catgaagcag attaaagaac tccagcgtct gctcggcaaa
+      361 aaaacgatgg aaaatgaact ccttaaagaa gccgttgaat atgggcgagc aaaaaagtgg
+      421 atagcgcacg cgcccttatt gcccggggat ggggagtaag cttcgtcagc cgttgtctcc
+      481 gggtgtcgcg tgcgcagttg cacgtcattc tcagacgagc cgatgactgg aaggacggcc
+      541 gccgcagccg tcacacggat gatacggatg tgcttcgccg tatacaccat gttatcggag
+      601 agctacccac atatggttat cgtcgggtat gggcgctgct tcgcagacaa acagaacttg
+      661 atggtatgcc tgcgatcaat gccaaacgt
+//

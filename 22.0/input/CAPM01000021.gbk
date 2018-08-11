@@ -1,0 +1,80 @@
+LOCUS       CAPM01000021             993 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            68, whole genome shotgun sequence.
+ACCESSION   CAPM01000021 CAPM01000000
+VERSION     CAPM01000021.1  GI:441715774
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..993
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 68"
+     CDS             109..222
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CCQ04370.1"
+                     /db_xref="GI:441715775"
+                     /translation="MLLVNTHGFTTGDDFHNGIPLKTEDKSENRCDVVVTG"
+     CDS             complement(219..695)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative DNA repair protein"
+                     /protein_id="CCQ04371.1"
+                     /db_xref="GI:441715776"
+                     /translation="MQQISFLPGEMTPGERSLILRALKTLDRHLHEPGVAFTSTRAAR
+                     EWLILNMAGLEREEFRVLYLNNQNQLIAGETLFTGTINRTEVHPREVIKRALYHNAAA
+                     VVLAHNHPSGEVTPSKADRLITERLVQALGLVDIRVPDHLIVGGSQVFSFAEHGLL"
+     misc_feature    complement(222..>695)
+                     /note="DNA repair proteins [DNA replication,
+                     recombination, and repair]; Region: RadC; COG2003"
+                     /db_xref="CDD:224914"
+     misc_feature    complement(237..575)
+                     /note="Mov34/MPN/PAD-1 family; Region: MPN_DUF2466;
+                     cd08071"
+                     /db_xref="CDD:163702"
+     misc_feature    complement(order(336..338,345..347,369..371,375..377,
+                     525..527))
+                     /note="MPN+ (JAMM) motif; other site"
+                     /db_xref="CDD:163702"
+     misc_feature    complement(order(336..338,369..371,375..377))
+                     /note="Zinc-binding site [ion binding]; other site"
+                     /db_xref="CDD:163702"
+     CDS             complement(711..944)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Antirestriction protein klcA"
+                     /protein_id="CCQ04372.1"
+                     /db_xref="GI:441715777"
+                     /translation="MAPEPDDDDDETWVLFNVMNGNRAEMSPEAAGIAACLMTYSHHA
+                     CRTECYAMTVHYYRLRDYALQHPECSAIMRIID"
+     misc_feature    complement(714..>944)
+                     /note="Antirestriction protein; Region: Antirestrict;
+                     pfam03230"
+                     /db_xref="CDD:190572"
+ORIGIN      
+        1 cacggccaac acaccgggaa tatcctgcac ttcacgaccg gtatacgctt cagtgctgcc
+       61 gtgccagcgg tatttgccgg tacagaacgg aaaaagacgg gatgcaggat gctgttggtg
+      121 aatacgcatg gcttcaccac gggtgatgat tttcataatg ggatacctct gaagacagaa
+      181 gataaaagtg aaaacaggtg tgatgtggtt gtgacgggtt aaagcagacc atgttcggca
+      241 aaggagaaaa cctggctgcc accgactatc agatggtccg gcacccggat atccaccagg
+      301 cccagtgcct gtaccagacg ttccgtgata aggcggtctg ccttactggg ggtgacttca
+      361 ccggacgggt gattgtgtgc cagcaccacg gctgcggcat tgtgatacag ggcgcgttta
+      421 atcacttccc ggggatggac ttccgtgcgg ttgatggtgc cggtgaagag ggtttcaccg
+      481 gcaatcagct gattctggtt attcagatac agcacccgga actcttcacg ctccagtccc
+      541 gccatgttca gaatcagcca ttcccgtgcc gcacgggtgg aggtgaaggc cacgccgggt
+      601 tcatgaagat ggcggtccag ggttttcagg gcccgcagaa tgagactgcg ctcgccgggc
+      661 gtcatttctc cgggcagaaa ggaaatctgt tgcattgttc ctgccccctt tcagtcaata
+      721 atgcgcataa tggcgctgca ttccggatgc tgcagggcgt aatcccgcag acggtaataa
+      781 tgaaccgtca tggcataaca ctccgtacgg caggcgtgat gactgtacgt catcagacag
+      841 gcggcaatgc cggcggcttc cgggctcatt tcagcgcggt taccgttcat gacgttaaac
+      901 agcacccatg tttcgtcatc atcgtcatcc ggttcgggtg ccataaatgc gccaccgttg
+      961 ttcagggtgt acagattcca gataccaccg cag
+//

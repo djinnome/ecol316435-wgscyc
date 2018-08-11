@@ -1,0 +1,75 @@
+LOCUS       CAPM01000004            1523 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            120, whole genome shotgun sequence.
+ACCESSION   CAPM01000004 CAPM01000000
+VERSION     CAPM01000004.1  GI:441715943
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1523
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 120"
+     CDS             complement(202..687)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Antirestriction protein klcA"
+                     /protein_id="CCQ04249.1"
+                     /db_xref="GI:441715944"
+                     /translation="MTTSSHNSTTPSVSVAAASGNNQSQLVATPVPDEQRISFWPQHF
+                     GLIPQWVTLEPRVFGWMDRLYEDYCGGIWNLYTLNNGGAFMAPEPDDDDDETWVLFNA
+                     MNGNRAEMSPEAAGIAACLMTYSHHACRTECYAMTVHYYRLRDYALQHPEYDAIMRII
+                     D"
+     misc_feature    complement(205..498)
+                     /note="Antirestriction protein; Region: Antirestrict;
+                     pfam03230"
+                     /db_xref="CDD:190572"
+     CDS             complement(778..1515)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00638146: hypothetical protein"
+                     /protein_id="CCQ04250.1"
+                     /db_xref="GI:441715945"
+                     /translation="MPGIFGEEKHTSRSQNYTYIPTITVLENLQREGFQPFFACQTRV
+                     RDQSRREYTKHMLRLRRAGQITGQHVPEIILLNSHDGSSSYQMLPGYFRAICTNGLVC
+                     GQSLGEVRVPHRGNVVDRVIEGAYEVVGVFDLIEEKRDAMQSLVLPPPARQALAQAAL
+                     TYRYGDEHQPVTTTDILTPRRREDYGKDLWSAYQTIQENMLKGGISGRSARGKRIHTR
+                     AIHSIDTDIKLNRALWVMAETLLESLR"
+     misc_feature    complement(814..1491)
+                     /note="Domain of unknown function (DUF932); Region:
+                     DUF932; pfam06067"
+                     /db_xref="CDD:218880"
+ORIGIN      
+        1 tagcacccgg aattcttcac gctccagtcc cgccatgttc agaatcagcc attcccgtgc
+       61 cgcacgggtg gaggtgaagg ccacaccggg ttcatgaaga tgacggtcca gggttttcag
+      121 ggcccgcaga atgagactgc gctcgccggg cgtcatctct ccgggcagaa aggaaatctg
+      181 ttgcattgtt cctgccccct ttcagtcaat gatgcgcata atggcgtcgt attccggatg
+      241 ttgcagggcg taatcccgca gacggtaata atgaaccgtc atggcataac actccgtacg
+      301 gcaggcgtga tgactgtacg tcatcagaca ggcggcaatg ccggcggctt ccgggctcat
+      361 ttcagcgcgg ttaccgttca tggcattgaa cagtacccat gtttcgtcat catcgtcatc
+      421 cggttcgggt gccataaatg cgccaccgtt gttcagggtg tacagattcc agataccacc
+      481 gcagtagtct tcatacagac ggtccatcca gccgaagaca cggggctcca gggtgaccca
+      541 ctgtggaatg aggccaaaat gctgcggcca gaagctgatg cgctgttcat cagggacggg
+      601 agtggcaacc aactgagact ggttattccc tgatgcagcg gccacggaaa cagaaggtgt
+      661 ggtggaatta tgcgaagagg ttgtcatgag attattcctt ataaaaagta aatgaatggt
+      721 ggaatgtctg ggggaaggga cagccgtgaa caggactgcg ctttcaggga aacggtatca
+      781 gcgcaggctc tccagcagcg tttctgccat cacccacaac gcccggttga gcttaatgtc
+      841 ggtatcgatg ctgtgaatgg cccgggtatg gatacgtttt cctctggcac tgcgaccgga
+      901 aatcccgcct ttcagcatat tctcctggat ggtctgataa gcactccaca ggtccttacc
+      961 gtaatcctcc cggcgtcgtg gcgtcagaat gtcggtagtg gtgacgggct gatgttcatc
+     1021 accataacgg taagtcagcg ccgcctgtgc cagcgcctgg cgtgccggtg gcggcaggac
+     1081 cagcgactgc atggcatcac gcttttcctc aatcaggtca aacacgccca ccacttcgta
+     1141 agcaccttct atgaccctgt ccaccacgtt tccccggtgt ggcacccgga cttctcccag
+     1201 cgactgaccg cagaccaggc cattggtaca aatggcacga aaatatccgg gtaacatctg
+     1261 gtagctggat gaaccgtcat gggagttgag cagaataatt tcaggcacat gctgaccggt
+     1321 tatctgtccg gcccgccgca gacgcagcat atgtttggta tattcccggc ggctctggtc
+     1381 gcgcacacgg gtctggcagg cgaagaacgg ctgaaagcct tcccgctgca gattttccag
+     1441 tacggtgatg gtggggatgt acgtatagtt ctggcttcgg gacgtgtgtt tctcttcccc
+     1501 gaaaatcccc ggcacatggt gca
+//

@@ -1,0 +1,135 @@
+LOCUS       CAPM01000107            2721 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            104, whole genome shotgun sequence.
+ACCESSION   CAPM01000107 CAPM01000000
+VERSION     CAPM01000107.1  GI:441711895
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..2721
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 104"
+     CDS             483..1175
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Transcriptional regulator, GntR family"
+                     /protein_id="CCQ07716.1"
+                     /db_xref="GI:441711896"
+                     /translation="MPLSAQQLAAQKNLSYVLAEKLAQRILKGEYEPGTILPGEIELG
+                     EQFGVSRTAVREAVKTLTAKGMVLPRPRIGTRVMPQSNWNFLDQELLTWWMTEENFHQ
+                     VIDHFLVMRICLEPQACLLAAKVGTAEQKAHLNTLMAEMAALKENFRRERWIEVDMAW
+                     HEHIYEMSANPFLTSFASLFHSVYHTYFTSITSDTVIKLDLHQAIVDAIIQSDGDAAF
+                     KACQALLRSPDK"
+     misc_feature    495..1163
+                     /note="Transcriptional regulators [Transcription]; Region:
+                     FadR; COG2186"
+                     /db_xref="CDD:225097"
+     misc_feature    522..713
+                     /note="Winged helix-turn-helix (WHTH) DNA-binding domain
+                     of the GntR family of transcriptional regulators; Region:
+                     WHTH_GntR; cd07377"
+                     /db_xref="CDD:153418"
+     misc_feature    order(525..527,594..596,600..605,627..641,645..650,
+                     657..659,687..692,696..707)
+                     /note="DNA-binding site [nucleotide binding]; DNA binding
+                     site"
+                     /db_xref="CDD:153418"
+     misc_feature    810..1163
+                     /note="This entry represents the C-terminal ligand binding
+                     domain of many members of the GntR family; Region: FCD;
+                     smart00895"
+                     /db_xref="CDD:214892"
+     CDS             1198..2625
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Permeases of the major facilitator superfamily"
+                     /protein_id="CCQ07717.1"
+                     /db_xref="GI:441711897"
+                     /translation="MSDKKKRSMAGLPWIAAMAFFMQALDATILNTALPAIAHSLNRS
+                     PLAMQSAIISYTLTVAMLIPVSGWLADRFGTRRIFTLAVSLFTLGSLACALSNSLPQL
+                     VVFRVIQGIGGAMMMPVARLALLRAYPRNELLPVLNFVAMPGLVGPILGPVLGGVLVT
+                     WATWHWIFLINIPIGIAGLLYAHKHMPNFTTARRRFDTTGFLLFGLSLVLFSSGIELF
+                     GEKIVASWIALTVIVTSIGLLLLYILHARRTPNPLISLDLFKTRTFSIGIVGNIATRL
+                     GTGCVPFLMPLMLQVGFGYQAFIAGCMMAPTALGSIIAKSMVTQVLRRLGYRHTLVGI
+                     TVIIGLMIAQFSLQSPAMAIWMLILPLFILGMAMSTQFTAMNTITLADLTDDNASSGN
+                     SVLAVTQQLSISLGVAVSAAVLRVYEGMEGTTTVEQFHYTFITMGIITVASAAMFMLL
+                     KTTDGNNLIKRQRKSKPNHVPSESE"
+     misc_feature    1237..2595
+                     /note="putative transporter; Provisional; Region:
+                     PRK10504"
+                     /db_xref="CDD:182502"
+     misc_feature    1237..>1743
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; Region: MFS; cd06174"
+                     /db_xref="CDD:119392"
+     misc_feature    order(1276..1278,1285..1293,1297..1302,1351..1353,
+                     1360..1365,1372..1374,1384..1389,1393..1398,1534..1539,
+                     1546..1551,1558..1563,1570..1572,1606..1611,1618..1623,
+                     1639..1641)
+                     /note="putative substrate translocation pore; other site"
+                     /db_xref="CDD:119392"
+     misc_feature    <1969..2550
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; Region: MFS; cd06174"
+                     /db_xref="CDD:119392"
+ORIGIN      
+        1 tttaaaagtt tgatgctcaa agaattaaac ttcgtaatga attacgtgtt cactcttgag
+       61 acttggtatt catttttcgt cttgcgacgt caagaatccg tatcttcgag tgcccacaca
+      121 gattgtctga taaattgtta aagagcagtg ccgcttcgct ttttctcaac ggcgcggggt
+      181 gtgcataata cgctttcccg ctacagagtc aagcatttat tttgctttcc ctgccgaagt
+      241 tctcaggaga accccgctga cccggcggcg tgtttgccgt tgttccgtgt cagtggtggc
+      301 gcattatagg gagttattcc ggcctgacaa gaggaaattt aaaataattt tctgatcgcg
+      361 cattttttca gcaaaagccc cgttaatgtg ccataaaaca agcaatttgc cgtttttgca
+      421 accgtaatca cacttcctgg tggcatacta agaaggaata aaaagaaaaa ggaagattag
+      481 taatgccttt aagcgcacaa cagttagctg cacagaaaaa cctttcgtat gttctggctg
+      541 agaagctggc gcagcggatc ttaaaaggtg aatatgaacc cggcaccatt ttgcctggtg
+      601 agattgagct gggcgagcaa tttggagtga gtcgtacagc ggtacgcgaa gcggtcaaaa
+      661 cgttaacggc aaaagggatg gttttaccgc gaccgcgaat tggtacccga gtcatgccac
+      721 aatcgaactg gaattttctt gatcaggaat tgcttacctg gtggatgaca gaagagaact
+      781 ttcatcaggt catcgatcac tttctggtta tgcgtatctg tctggagccg caagcttgcc
+      841 tactggcagc aaaggttggc accgcggaac agaaggcgca tctcaatacg ttaatggccg
+      901 aaatggcggc attaaaagag aactttcgcc gtgaacgctg gatcgaagtc gatatggcct
+      961 ggcatgagca tatctatgaa atgagcgcca atccgttttt gacctcattc gcctcgctat
+     1021 tccattcggt ttatcacact tacttcacgt caattaccag cgacacagtg ataaagctgg
+     1081 atctgcacca ggcgattgtc gatgcgatta tccaaagcga tggcgacgcg gcatttaaag
+     1141 cttgtcaggc gctgctacgc tcaccagata agtgataact cgataacagg acattgaatg
+     1201 agcgataaaa agaagcgcag tatggcgggt ttgccgtgga tcgcggcgat ggccttcttc
+     1261 atgcaggcac ttgatgccac tattctgaat accgccttac ccgcaatcgc tcatagcctt
+     1321 aatcgttctc ctctcgcgat gcaatcagcc atcatcagtt atacgctgac ggtggcgatg
+     1381 cttattccgg taagcggatg gctagccgat cgcttcggta cgcgtcgcat atttaccctt
+     1441 gccgtgagtc tgttcacgtt gggttctctg gcctgcgcac tttctaactc gctaccacag
+     1501 ctggttgtct tccgggttat tcaggggata ggcggcgcaa tgatgatgcc tgttgctcgg
+     1561 ctggccttac tgcgcgctta tcctcgtaat gagcttcttc ctgtattgaa ttttgtcgcc
+     1621 atgccgggtc tggtggggcc aattttaggc cccgttcttg gcggcgtgct ggtcacctgg
+     1681 gcaacctggc actggatatt tttaatcaat atccccatag gtattgcggg ccttctttac
+     1741 gcgcacaaac atatgcccaa tttcaccacc gcacgacgca gattcgatac cactggcttt
+     1801 ttgctgtttg gcctcagcct tgttctcttc tcaagcggaa tagagctatt cggggaaaag
+     1861 attgtcgcca gctggattgc cttgacggta attgtcacca gcatcgggtt actgcttctc
+     1921 tatattctcc atgcgcgacg cacgccaaac ccattaattt cattagattt atttaaaacc
+     1981 cgcactttct cgatcggtat cgtaggcaat attgcaaccc gtctggggac cggctgtgta
+     2041 ccgttcctta tgccattgat gttacaggta ggatttgggt atcaggcgtt tattgctggc
+     2101 tgtatgatgg caccgacagc gttaggttcc attattgcaa aatcgatggt tacccaagtc
+     2161 ttacgtcgtc tgggctatcg ccatacgtta gtggggatca cggtgattat agggctaatg
+     2221 atcgctcagt tctctttgca atcaccagca atggcgatat ggatgctgat cttgccgttg
+     2281 tttatattag ggatggctat gtcgacacaa tttaccgcga tgaataccat cacacttgcc
+     2341 gatctgaccg atgacaacgc cagcagcggt aacagtgttc tggcggtcac gcagcaactg
+     2401 tcgatcagtt taggcgttgc tgtaagtgcg gcagtccttc gcgtttacga agggatggaa
+     2461 ggcacaacga cagtcgaaca attccactat acgtttatca cgatgggcat tattactgtt
+     2521 gcttcagcag caatgttcat gctactgaaa acaaccgatg gtaataattt gatcaaaaga
+     2581 cagcgtaaat ctaagccgaa ccacgttcca tcagaatcgg agtaagttgt aattgaagtg
+     2641 gtcaacaaaa actggccacc gagttagagt tttttccagt atcgattttc cgattcgttt
+     2701 ggtggtaacc caccattata t
+//

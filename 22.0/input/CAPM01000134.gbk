@@ -1,0 +1,170 @@
+LOCUS       CAPM01000134            3987 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            17, whole genome shotgun sequence.
+ACCESSION   CAPM01000134 CAPM01000000
+VERSION     CAPM01000134.1  GI:441711263
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..3987
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 17"
+     CDS             14..865
+                     /EC_number="5.4.2.8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Phosphomannomutase"
+                     /protein_id="CCQ08234.1"
+                     /db_xref="GI:441711264"
+                     /translation="MINSGNGAAGPVVDAIEARFKALGAPVELIKVHNTPDGNFPNGI
+                     PNPLLPECRDDTRNAVIKHGADMGIAFDGDFDRCFLFDEKGQFIEGYYIVGLLAEAFL
+                     EKNPGAKIIHDPRLSWNTVDVVTAAGGTPVMSKTGHAFIKERMRKEDAIYGGEMSAHH
+                     YFRDFAYCDSGMIPWLLVAELVCLKGKTLGELVRDRMAAFPASGEINSKLAQPVEAIN
+                     RVEQHFSREALAVDRTDGISMTFADWRFNLRSSNTEPVVRLNVESRGDVPLMEARTRT
+                     LLTLLNE"
+     misc_feature    <17..856
+                     /note="The phosphomannomutase/phosphoglucomutase (PMM/PGM)
+                     bifunctional enzyme catalyzes the reversible conversion of
+                     1-phospho to 6-phospho-sugars (e.g. between
+                     mannose-1-phosphate and mannose-6-phosphate or
+                     glucose-1-phosphate and glucose-6-phosphate) via a...;
+                     Region: PMM_PGM; cd03089"
+                     /db_xref="CDD:100091"
+     misc_feature    order(227..229,233..235,239..244,356..358,419..427,
+                     476..478,482..484,488..490,758..760,764..772)
+                     /note="active site"
+                     /db_xref="CDD:100091"
+     misc_feature    order(227..229,233..235,239..241)
+                     /note="metal binding site [ion binding]; metal-binding
+                     site"
+                     /db_xref="CDD:100091"
+     misc_feature    order(242..244,356..358,419..421,425..427,476..478,
+                     482..484,488..490,758..760,764..772)
+                     /note="substrate binding site [chemical binding]; other
+                     site"
+                     /db_xref="CDD:100091"
+     CDS             921..2315
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Colanic acid biosynthsis UDP-glucose lipid
+                     carrier transferase WcaJ"
+                     /protein_id="CCQ08235.1"
+                     /db_xref="GI:441711265"
+                     /translation="MTNLKKRERAKTNASLISMVQRFSDITIMFAGLWLVCEVSGLSF
+                     LYMHLLVALITLVVFQMLGGITDFYRSWRGVRAATEFALLLQNWTLSVIFSAGLVAFN
+                     NDFDTQLKIWLAWYGLTSIGLVVCRSCIRIGAGWLRNHGYNKRMVAVAGDLAAGQMLM
+                     ESFRNQPWLGFEVVGVYHDPKPGGVSNDWAGNLQQLVEDAKAGKIHNVYIAMQMCDGA
+                     RVKKLVHQLADTTCSVLLIPDVFTFNILHSRLEEMNGVPVVPLYDTPLSGVNRLIKRA
+                     EDIVLATLILLLISPVLCCIALAVKLSSPGPVIFRQTRYGMDGKPIKVWKFRSMKVME
+                     NDKVVTQATQNDPRVTKVGNFLRRTSLDELPQFINVLTGGMSIVGPRPHAVAHNEQYR
+                     QLIEGYMLRHKVKPGITGWAQINGWRGETDTLEKMEKRVEFDLEYIREWSVWFDIKIV
+                     FLTVFKGFVNKAAY"
+     misc_feature    924..2312
+                     /note="putative UDP-glucose lipid carrier transferase;
+                     Provisional; Region: PRK10124"
+                     /db_xref="CDD:182254"
+     misc_feature    1620..2312
+                     /note="Sugar transferases involved in lipopolysaccharide
+                     synthesis [Cell envelope biogenesis, outer membrane];
+                     Region: WcaJ; COG2148"
+                     /db_xref="CDD:225059"
+     CDS             2317..3795
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Lipopolysaccharide biosynthesis protein WzxC"
+                     /protein_id="CCQ08236.1"
+                     /db_xref="GI:441711266"
+                     /translation="MSLREKTISGAKWSAIATVIIIGLGLVQMTVLARIIDNHQFGLL
+                     TVSLVIIALADTLSDFGIANSIIQRKEISHLELTTLYWLNVGLGLVVCVAVFLLSDLI
+                     GDVLNNPDLAPLIKTLSLAFVVIPHGQQFRALMQKELEFNKIGMIETSAVLAGFTFTV
+                     VSAHFWPLAMTAILGYLVNSAVRTLLFGYFGRKIYRPGLHFSLASVAPNLRFGAWLTA
+                     DSIINYLNTNLSTLVLARILGAGVAGGYNLAYNVAVVPPMKLNPIITRVLFPAFAKIQ
+                     DDTEKLRVNFYKLLSVVGIINFPALLGLMVVSNNFVPLVFGEKWNSIIPVLQLLCVVG
+                     LLRSVGNPIGSLLMAKARVDISFKFNVFKTFLFIPAIVIGGQMAGAIGVTLGFLLVQI
+                     INTILSYFVMIKPVLGSSYRQYILSLWLPFYLSLPTLVVSYALGIVLKGQLALGMLLA
+                     VQIAAGVLAFVVMIVLSRHPLVVEVKRQFCRSEKMKMLLRAG"
+     misc_feature    2317..3792
+                     /note="colanic acid exporter; Provisional; Region:
+                     PRK10459"
+                     /db_xref="CDD:236697"
+     misc_feature    2335..3561
+                     /note="Uncharacterized subfamily of the multidrug and
+                     toxic compound extrusion (MATE) proteins; Region:
+                     MATE_tuaB_like; cd13127"
+                     /db_xref="CDD:240532"
+ORIGIN      
+        1 gccgctcaag ctggtgatta actccgggaa cggcgcggcg ggtccggtgg tggacgccat
+       61 tgaagcccgc tttaaagccc tcggcgcacc ggtggagtta atcaaagtgc ataacacgcc
+      121 ggacggcaat ttccccaacg gtattcctaa cccgctactg ccggaatgtc gcgacgacac
+      181 ccgcaatgcg gtcattaaac acggcgcgga tatgggcatt gcttttgatg gcgattttga
+      241 ccgctgtttc ctgtttgacg aaaaagggca gtttatcgag ggttactaca ttgtcggttt
+      301 gctggcagaa gcgttcctcg aaaaaaatcc cggcgcgaag atcatccacg atccacgtct
+      361 ctcctggaac accgttgatg tggtgactgc cgcaggcggc accccggtaa tgtcgaaaac
+      421 cggacacgcc tttattaaag aacgtatgcg caaggaagac gctatctacg gtggcgaaat
+      481 gagcgcccac cattacttcc gtgatttcgc ttactgcgac agcggcatga tcccgtggct
+      541 gctggtcgcc gaactggtgt gtctgaaagg aaaaacgctg ggcgaactgg tgcgcgaccg
+      601 gatggcggca ttcccggcaa gcggtgagat caacagcaaa ctggcgcaac ccgttgaggc
+      661 gattaaccgc gtggaacagc attttagccg tgaggcactg gcggtggatc gtaccgatgg
+      721 catcagcatg acctttgccg actggcgctt taatctgcgc tcctccaaca ccgaaccggt
+      781 ggtgcggttg aatgtggaat cacgcggtga tgtgccgctg atggaagcgc gaacgcgaac
+      841 tctgctgacg ttgctgaacg agtaatgtcg gatcttccct tacccccact gcgggtaagg
+      901 ggctaaaaac aggaacaacg atgacaaatc taaaaaagcg cgagcgagcg aaaaccaatg
+      961 catcgttaat ctctatggtg caacgctttt cagatatcac catcatgttt gccgggctat
+     1021 ggctggtttg cgaagtgagc ggactgtcat tcctctacat gcacctgttg gtggcgctga
+     1081 ttacgctggt ggtgttccag atgctgggcg gcatcaccga tttttatcgc tcatggcgcg
+     1141 gtgttcgggc agcgacagaa tttgccctgt tgctacaaaa ctggacgtta agcgtgattt
+     1201 tcagcgccgg actggtggcg ttcaacaatg atttcgacac gcaattgaaa atctggctgg
+     1261 cgtggtatgg gctgaccagc atcggactgg tggtttgccg ttcatgtatt cgtattgggg
+     1321 cgggctggct gcgtaatcat ggctataaca agcgcatggt cgcggtggcg ggggatttag
+     1381 ccgccggaca aatgctgatg gagagcttcc gtaatcagcc gtggttaggg tttgaagtgg
+     1441 tgggcgttta ccacgacccg aaaccgggtg gcgtttctaa cgactgggcg ggtaatctgc
+     1501 aacagctggt cgaggatgcg aaagcgggca agattcataa cgtctatatc gcgatgcaga
+     1561 tgtgcgacgg cgcgcgagtg aaaaaactgg tccatcaact ggcggacacc acctgttcgg
+     1621 tgctgctgat ccccgatgtc tttaccttca acattctcca ttcacgtctc gaagagatga
+     1681 acggcgtacc ggtggtgccg ctgtatgaca cgccgctttc cggggttaac cgcctgataa
+     1741 aacgtgcaga agacattgtg ctggcgacgc ttatcctgct gctgatctcc ccggtgctgt
+     1801 gctgcattgc gctggcggtg aaactgagct caccgggacc ggttattttc cgccagactc
+     1861 gctacggcat ggatggcaag ccgatcaaag tgtggaagtt ccgttccatg aaagtgatgg
+     1921 agaacgacaa agtggtgacc caggcgacgc agaacgatcc gcgcgtcacc aaagtgggga
+     1981 attttctgcg ccgcacctcg ctggatgaat tgccgcagtt tatcaatgtg ctgaccgggg
+     2041 ggatgtcgat tgtcggtccg cgtccgcatg cggtggcgca taacgaacag tatcgccagc
+     2101 tcattgaagg ctacatgctg cgccataaag tgaaaccggg cattaccggc tgggcgcaga
+     2161 ttaacggctg gcgcggcgaa accgacacgc tggagaaaat ggaaaaacgc gtcgagttcg
+     2221 accttgagta catccgcgaa tggagcgtct ggttcgatat caaaatcgtt ttcctgacgg
+     2281 tattcaaagg tttcgttaac aaagcggcat attgatatga gcttacgtga aaaaaccatc
+     2341 agcggcgcga agtggtcggc gattgccacg gtgatcatca tcggcctcgg tctggtgcaa
+     2401 atgactgtgc tggcgcggat tatagataac caccagttcg gtttgctgac tgtgtcgctg
+     2461 gtgatcattg cgctggcaga tacgctttct gacttcggta tcgctaactc cattattcag
+     2521 cgaaaagaaa tcagccacct tgaactcacc acgctgtact ggctgaacgt tgggctgggg
+     2581 cttgtggtgt gcgtggcggt gtttttgttg agtgatctca tcggtgacgt gttgaataac
+     2641 ccggacctgg caccgttgat taaaacattg tcgctggcgt ttgtggttat cccccacggg
+     2701 caacagttcc gcgcgttgat gcaaaaggag ctggagttca acaaaatcgg catgatcgaa
+     2761 accagcgcgg tgctggcggg cttcactttt acagtggtta gcgcccattt ctggccgctg
+     2821 gcgatgaccg cgattctcgg ttatctggtc aatagtgcgg tgagaacgct gctgtttggc
+     2881 tactttggcc gcaaaattta tcgccccggt ctgcatttct cgctggcgtc ggtggcacca
+     2941 aacttacgtt ttggtgcctg gctgacggcg gacagcatca tcaactatct caacaccaac
+     3001 ctttcaacgc tggtgctggc gcgtattctc ggcgcgggcg tagcaggggg atacaacctg
+     3061 gcgtacaacg tggccgttgt gccgccgatg aagctgaacc caatcatcac ccgcgtgttg
+     3121 tttccggcat ttgccaaaat tcaggacgac accgaaaagc tgcgcgttaa cttctacaag
+     3181 ctgctgtcgg tagtggggat tatcaacttt ccggcgctgc tggggctgat ggtggtgtcg
+     3241 aataactttg taccgctggt ctttggtgag aagtggaaca gcattattcc ggtgctgcaa
+     3301 ttgctgtgtg tggtggggct gctgcgttcc gtgggtaacc cgattggttc gctgctgatg
+     3361 gcgaaagcgc gggtcgatat cagctttaaa ttcaacgtat tcaaaacctt tctgtttatt
+     3421 ccggcgattg ttattggtgg gcagatggcg ggcgcaatcg gcgtcacgct tggcttcctg
+     3481 ctggtgcaga ttatcaacac cattctgagc tatttcgtga tgattaaacc ggtgctcggt
+     3541 tccagttatc gccagtacat cctgagtttg tggctgccgt tttatctctc gctgccgacg
+     3601 ctggtggtca gttatgcgct gggcattgtg ctgaaagggc aactggcgct ggggatgctg
+     3661 ctggcggtgc aaatagccgc gggcgtgctg gcgtttgtgg tgatgattgt gctgtcgcgc
+     3721 catccgctgg tggtggaagt gaagcgtcag ttttgtcgca gcgaaaaaat gaaaatgctt
+     3781 ttacgggcgg ggtgaatggt tgttttcggt tccggcaacg gttgccggat gcggcgtaaa
+     3841 acgccttatc cgtcctgggg ggctgggctt ggatcttgta ggcctgataa gacgcgccag
+     3901 cgtcgcatca ggcactgaat gccggatgcg gcgtgaacgc cttatccggc ctacggttct
+     3961 gtgctcggat cttgtaggcc tgataag
+//

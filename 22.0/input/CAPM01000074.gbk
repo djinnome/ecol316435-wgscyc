@@ -1,0 +1,38 @@
+LOCUS       CAPM01000074             348 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            97, whole genome shotgun sequence.
+ACCESSION   CAPM01000074 CAPM01000000
+VERSION     CAPM01000074.1  GI:441713528
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..348
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 97"
+     CDS             complement(46..294)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="YeeU protein (antitoxin to YeeV)"
+                     /protein_id="CCQ06308.1"
+                     /db_xref="GI:441713529"
+                     /translation="MHYLADRAGIRGLFSDADAYHLDQAFPLLMKQLELMLTSGELSP
+                     RYQHTVTLYAKGLTCEADTLGSCDYVYLAVYPTPEMKN"
+     misc_feature    complement(58..>294)
+                     /note="YagB/YeeU/YfjZ family; Region: YagB_YeeU_YfjZ;
+                     pfam06154"
+                     /db_xref="CDD:114849"
+ORIGIN      
+        1 gcgtggtgaa aacaccaggc cgtagcagaa ggctattctg gagagttaat ttttcatttc
+       61 gggcgtcgga taaacagcca gataaacgta atcacaggag cccagggtat cggcttcgca
+      121 ggtcagtcct ttcgcataca gcgtgacggt atgctgatag cgggggctga gttcaccact
+      181 ggtgagcatg agctccagtt gtttcatcag caacggaaag gcctggtcca ggtggtacgc
+      241 atctgcatcg ctgaacaggc ctctgatacc ggcacggtcg gcaaggtaat gcaaccggtt
+      301 accctcctgc accagacggg cgccgaaaca gggcgtcacg gtgcaggg
+//

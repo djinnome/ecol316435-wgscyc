@@ -1,0 +1,82 @@
+LOCUS       CAPM01000036            1287 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            65, whole genome shotgun sequence.
+ACCESSION   CAPM01000036 CAPM01000000
+VERSION     CAPM01000036.1  GI:441715527
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1287
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 65"
+     CDS             complement(94..738)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00642070: hypothetical protein"
+                     /protein_id="CCQ04570.1"
+                     /db_xref="GI:441715528"
+                     /translation="MSRIITTTVYTLHELSSTAQEKARDWYRQHHADSNWYENVYEDF
+                     REVCGIFGIDLRQRVFRLSNGRFMEEPCIWFSGFCSQGDGACFEGRWHWQPATPRKIR
+                     EYAPQDRELHRIADALQAVQKRNFWQLQAEISHRGRYCHPYSMDITVTRNSPTGQALT
+                     ADAEAAVSEALRDLAFWLYRQLENEYDWLTSDAAVDEAIHINAYTFTEAGLHAG"
+     CDS             complement(757..978)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Uncharacterized protein YeeT"
+                     /protein_id="CCQ04571.1"
+                     /db_xref="GI:441715529"
+                     /translation="MKIITRGEAMRIHQQHPASRLFPFCTGKYRWHGSTETYTGREVQ
+                     DIPGVLAVFAERRKDSFGPYVRLMSVTLN"
+     misc_feature    complement(781..978)
+                     /note="Protein of unknown function (DUF987); Region:
+                     DUF987; pfam06174"
+                     /db_xref="CDD:114867"
+     CDS             complement(1041..1247)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative radC-like protein YeeS"
+                     /protein_id="CCQ04572.1"
+                     /db_xref="GI:441715530"
+                     /translation="MIKRALYHNAAAVVLAHNHPSGEVTPSKADRLITERLVQALGLV
+                     DIRVPDHLIVGGSQVFSFAEHGLL"
+     misc_feature    complement(1059..>1193)
+                     /note="Mov34/MPN/PAD-1 family; Region: MPN_DUF2466;
+                     cd08071"
+                     /db_xref="CDD:163702"
+     misc_feature    complement(order(1158..1160,1167..1169,1191..1193))
+                     /note="MPN+ (JAMM) motif; other site"
+                     /db_xref="CDD:163702"
+     misc_feature    complement(order(1158..1160,1191..1193))
+                     /note="Zinc-binding site [ion binding]; other site"
+                     /db_xref="CDD:163702"
+ORIGIN      
+        1 ttgttgtcgt cgggataatt tgtttcatgg agcgtgtctg acacgataaa gtcctcacag
+       61 aaaatcggtg aatgatagtt taacgatgac aggtcagccg gcgtggagac cggcttcggt
+      121 gaaggtatat gcattgatgt gaatggcctc atctacagcg gcgtctgagg tcagccagtc
+      181 gtactcgttt tccagctggc ggtacagcca gaaggccagg tcgcgcaggg cttcgctgac
+      241 agcggcttcc gcatcggctg tcagtgcctg accagtcgga ctgttccggg tgacggtgat
+      301 atccatgctg tacggatggc agtaacgtcc ccggtgactg atttcagcct gtaactgcca
+      361 gaagttacgc ttctgtaccg cctgcagggc atccgcgata cgatgaagct cacggtcctg
+      421 aggggcatat tccctgattt tccggggtgt cgctggctgc cagtgccagc gcccttcaaa
+      481 acaggctccg tccccctggc tgcagaatcc gctgaaccag atgcacggct cttccataaa
+      541 cctgccgttg ctgagccgga aaacgcgctg gcggaggtca attccgaaaa tgccacagac
+      601 ctccctgaag tcctcataca cgttttcata ccagttgctg tcagcatgat gctgacggta
+      661 ccagtcgcgg gctttttcct gtgcggtgga ggatagctca tgcagtgtat acacggtggt
+      721 ggtgataatt ctgctcatca gaatgccctt actgactcag ttcagagtga cgctcatcag
+      781 ccggacatac gggccaaaac tgtccttacg gcgttcagca aacacggcca gcacaccggg
+      841 aatatcctgc acttcacgac cggtatacgt ttcagtgctg ccgtgccagc ggtatttgcc
+      901 ggtacagaac ggaaaaagac gggatgcagg atgctgttgg tgaatacgca tggcttcacc
+      961 acgggtgatg attttcataa tgggatacct ctgaagacag aagataaaag tgaaaacagg
+     1021 tgtgatgtgg ttgtgacggg ttaaagcaga ccatgttcgg caaaggagaa aacctggctg
+     1081 ccaccgacta tcagatggtc cggcacccgg atatccacca ggcccagtgc ctgtaccaga
+     1141 cgttccgtga taagccggtc tgccttgctg ggtgtgactt caccggacgg gtgattatgt
+     1201 gccagcacca cggctgcggc attgtgatac agggcgcgtt taatcacttc ccggggatgg
+     1261 acttccgtgc ggttgatggt gccggtg
+//

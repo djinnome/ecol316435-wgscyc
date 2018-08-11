@@ -1,0 +1,67 @@
+LOCUS       CAPM01000140            1438 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            39, whole genome shotgun sequence.
+ACCESSION   CAPM01000140 CAPM01000000
+VERSION     CAPM01000140.1  GI:441710939
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1438
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 39"
+     CDS             complement(108..233)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="CCQ08516.1"
+                     /db_xref="GI:441710940"
+                     /translation="MLAADKSVKKDYCSGSQNQDTGITCFHFSSCKQGGKPSLFV"
+     CDS             482..898
+                     /codon_start=1
+                     /transl_table=11
+                     /product="putative regulator PapX protein"
+                     /protein_id="CCQ08517.1"
+                     /db_xref="GI:441710941"
+                     /translation="MQLCIRTNKRMQDNISEFLGVYGINHSAYMVLTTLFAAENHCLS
+                     PSEISQKLQFTRTNITRITDFLEKAGYVKRTDSREDRRAKKISLTSEGMFFIQRLTLA
+                     QSMYLKEIWDYLTHDEQELFEVINKKLLAHFSDASS"
+     misc_feature    485..874
+                     /note="MarR family; Region: MarR_2; cl17246"
+                     /db_xref="CDD:247800"
+     misc_feature    530..838
+                     /note="helix_turn_helix multiple antibiotic resistance
+                     protein; Region: HTH_MARR; smart00347"
+                     /db_xref="CDD:197670"
+ORIGIN      
+        1 ctgtcgttct caaaatcggt ggagctgcat gacaaagtca tcgggcatta tctgaacata
+       61 aaacactatc aataagttgg agtcattacc tacaacgttt atcgacctca cacgaacaac
+      121 gatggtttac cgccttgctt acatgaagaa aagtggaaac aggttattcc ggtgtcctga
+      181 ttttgtgaac cactacaata atcctttttc acagacttgt cagcagccag catttatgtt
+      241 cttttacctg cgggaattta tccgtctgcc tgtcgggact actctgtcat acagaaatca
+      301 ggtaggaata aattgtagtg gaaagtcgat gtttaccgga tgactgatgc gcgcttgtac
+      361 acagacagtg tgtttcagta atatggagaa taatgaaatg aataacacag acacattaga
+      421 aaaaataatc agacaccaaa aaaacaaaga ccccgcatat ccctttcggg aacatttgtt
+      481 gatgcagctc tgtattcgca caaataaaag aatgcaggat aatatatctg aatttctggg
+      541 ggtgtatgga ataaatcact cagcatatat ggttctcacc acattattcg cagcggagaa
+      601 ccattgtctg tcaccttcag agataagcca gaaacttcag tttaccagaa ctaatattac
+      661 ccgcattaca gattttttag aaaaagccgg atatgtaaaa aggacggata gcagggagga
+      721 tcgccgtgct aaaaaaatca gtctgacatc tgaaggtatg ttttttattc agaggctcac
+      781 tcttgcacaa agcatgtatc tgaaagaaat ctgggattat ctgacccatg atgaacagga
+      841 actgtttgaa gtcattaata aaaagttact ggcacatttt tctgatgcca gctcataaag
+      901 tgcgaaatat ctgaggatgc tggatagctt caggcaagag aataatgatt cttgcagatg
+      961 tgtttttccg gatacaaaaa caaaagtaaa aaattgcagc gccaggccac ctttcaaagc
+     1021 agggaggcct gtaccgcgtc gaaaatttca gccagttaat gtaattgtct gaaccaggca
+     1081 cttcgcccgg gcaggagaag gagcgtggtt gcggtcatcc tgtatactga agtcgttatg
+     1141 aaggaataat acaaataatt gcccgttttc tctgtacgat agaggcaggt gtgtatgatt
+     1201 gcattactat gtttttgtga tataaaaact aaatggtgag atatgcattt taaaatataa
+     1261 caaaaatcac catgaaataa gaataattat ccacggagaa cataaactgc agactgttac
+     1321 aatgcatgct gttcatcttg acaatgtcgg taatgactcc aacttattga tagtgtttta
+     1381 tgttcagata atgcccgatg actttgtcat gcagctccac cgattttgag aacgacag
+//

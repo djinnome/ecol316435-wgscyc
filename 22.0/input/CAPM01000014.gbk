@@ -1,0 +1,67 @@
+LOCUS       CAPM01000014            1189 bp    DNA     linear   BCT 24-JAN-2013
+DEFINITION  Escherichia coli Nissle 1917 WGS project CAPM00000000 data, contig
+            86, whole genome shotgun sequence.
+ACCESSION   CAPM01000014 CAPM01000000
+VERSION     CAPM01000014.1  GI:441715794
+KEYWORDS    WGS.
+SOURCE      Escherichia coli Nissle 1917
+  ORGANISM  Escherichia coli Nissle 1917
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+FEATURES             Location/Qualifiers
+     source          1..1189
+                     /organism="Escherichia coli Nissle 1917"
+                     /mol_type="genomic DNA"
+                     /strain="Nissle 1917"
+                     /serovar="O6:K5:H1"
+                     /db_xref="taxon:316435"
+                     /note="contig 86"
+     CDS             complement(118..603)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Antirestriction protein klcA"
+                     /protein_id="CCQ04365.1"
+                     /db_xref="GI:441715795"
+                     /translation="MKTISHNSTTSSVSVTAASGNDQPQLVATIVPDEQRISFWPQHF
+                     GLIPQWVALEPRVFGWMDRLCEDYCGGIWNLYTLNNGGAFMAPEPDDDDDETWVLFNA
+                     MNGNRAEMSPEAAGIAACLMTYSHHACRTECYAMTVHYYRLRDYALQHPECSAIMRII
+                     D"
+     misc_feature    complement(121..414)
+                     /note="Antirestriction protein; Region: Antirestrict;
+                     pfam03230"
+                     /db_xref="CDD:190572"
+     CDS             complement(658..1137)
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FIG00638146: hypothetical protein"
+                     /protein_id="CCQ04366.1"
+                     /db_xref="GI:441715796"
+                     /translation="MLPGYFRFVCQNGCVCGQSLGEVRVPHRGNVVDRVIEGAYEVVG
+                     VFDRIEEKRDAMQSLILPPPARQALAQAALTYRYGDEHQPVTTADILTPRRREDYGKD
+                     LWSAYQTIQENMLKGGISGRSAKGKRIHTRAIHSIDTDIKLNRALWVMAETLLESLR"
+     misc_feature    complement(694..>1137)
+                     /note="Domain of unknown function (DUF932); Region:
+                     DUF932; cl12129"
+                     /db_xref="CDD:245889"
+ORIGIN      
+        1 accgggttca tgaagatggc ggtccagggt tttcagagcc cgcagaatga gactgcgctc
+       61 gccgggcgtc atttctccgg gcagaaagga aagctgctgc attgtccctg cctccattca
+      121 gtcgatgatg cgcataatgg cgctgcattc cggatgctgc agggcgtaat cccgcagccg
+      181 gtaataatgg accgtcatgg cataacactc cgtacgacag gcgtgatgac tgtacgtcat
+      241 cagacaggca gcaatgccag cggcttccgg gctcatttca gcgcggttgc cgttcatggc
+      301 attgaacagt acccatgttt cgtcatcatc gtcatccggt tcgggggcca taaatgcccc
+      361 gccgttgttc agggtgtaca gattccagat accaccgcag tagtcttcgc acagacggtc
+      421 catccagccg aaaacacggg gctccagggc cacccactgt ggaatgaggc caaaatgctg
+      481 cggccagaag ctgatgcgct gttcatcagg gactatggtg gcaaccaact gaggctggtc
+      541 attccctgat gcagcggtta cggaaacaga agatgtggtg gaattatgtg aaatggtttt
+      601 catgaaatga ctccttaaag gacaaataaa tgcgtggttt tcagggtaat ggctgaatca
+      661 gcgcaggctc tccagcaggg tttccgccat cacccacaat gcgcggttga gcttaatgtc
+      721 agtgtcaatg ctgtgaatgg cacgggtatg gatacgtttt cctttagcgc tgcgacctga
+      781 aattccgcct ttcagcatat tctcctgaat ggtctgataa gcactccaca ggtccttacc
+      841 gtaatcctcc cggcgtcgtg gcgtcagaat gtcggcggtg gtgacgggct gatgttcgtc
+      901 accataacgg taagtcagtg ccgcctgtgc cagcgcctgg cgtgccggtg gcggcagaat
+      961 cagcgactgc atggcatcac gcttttcctc aatccggtca aacacgccca ctacctcgta
+     1021 agccccttca atgactctgt ccaccacatt tccccggtgc ggaacacgca cttcccccag
+     1081 agactgacca cagacgcacc cgttctggca gacgaacctg aagtaacccg gcagcatctg
+     1141 gtagctggag gtaccgtcat gagagttgag cagaataatt tcagggaca
+//
